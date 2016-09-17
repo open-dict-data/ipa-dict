@@ -1,0 +1,1701 @@
+a	/a/
+a da mek	/adamek/
+a farin	/afaɹin/
+a hen ina iself	/aheninaɪself/
+a konchri	/akontʃɹi/
+a wa mek	/awamek/
+a yaad	/ajaːd/
+aaba	/aːba/
+aad	/aːd/
+aad fi	/aːdfi/
+aad iez	/aːd iez/
+aadiens	/aːdiens/
+aaf	/aːf/
+Aafwe Chrii	/aːfwetʃɹiː/
+aagan	/aːgan/
+aaganizieshan	/aːganizɪɛʃan/
+Aagas	/aːgas/
+Aajentiina	/aːdʒentiːna/
+aakid	/aːkid/
+aal	/aːl/
+aal a dem	/aːladem/
+aal di taim	/aːlditaɪm/
+aalmuos	/aːlmuɔs/
+aalwiez	/aːlwɪɛz/
+aarait	/aːɹaɪt/
+aaredi	/aːɹedi/
+aas	/aːs/
+aas-riesin	/aːsɹɪɛsin/
+aat	/aːt/
+aata	/aːta/
+aatagrafi	/aːtagɹafi/
+aatiek	/aːtɪɛk/
+aawez	/aːwez/
+aax	/aːks/
+aazwiez	/aːzwɪɛz/
+ab	/ab/
+abee	/abeː/
+abraad	/abɹaːd/
+achrakshan	/atʃɹakʃan/
+achribyut	/atʃɹibjut/
+adaels	/adaels/
+adaels ieria	/adaels ɪɛɹia/
+adawaiz	/adawaɪz/
+adminischrietiv	/administʃɹɪɛtiv/
+advokiet	/advokɪɛt/
+Afrika	/afɹika/
+afta	/afta/
+agrikolcha	/agɹikoltʃa/
+agrikolcharal	/agɹikoltʃaɹal/
+agyu	/aɟu/
+agyu se	/aɟuse/
+ahn	/ã/
+ai	/aɪ/
+ai skuul	/aɪskuːl/
+aida	/aɪda/
+aidentifai	/aɪdentifaɪ/
+aidentifai az	/aɪdentifaɪaz/
+aidentifai wid	/aɪdentifaɪwid/
+aidentiti	/aɪdentiti/
+aidie	/aɪdie/
+aigl	/aɪgl̩/
+aijrosfier	/aɪdʒɹosfɪɛɹ/
+ail	/aɪl/
+ailant	/aɪlant/
+Airilan	/aɪɹilan/
+airish	/aɪɹiʃ/
+airish pitieta	/aɪɹiʃ pitɪɛta/
+ais	/aɪs/
+aiskriim	/aɪskɹiːm/
+aisoliet	/aɪsolɪɛt/
+ait	/aɪt/
+Aizak	/aɪzak/
+ajres	/adʒɹes/
+aki	/aki/
+aki ahn saalfish	/aki ã saːlfiʃ/
+akliem	/aklɪɛm/
+aknalij	/aknalidʒ/
+akraas	/akɹaːs/
+aktivis	/aktivis/
+Aktuoba	/aktuɔba/
+ala	/ala/
+alaiv	/alaɪv/
+alayans	/alajans/
+alduo	/alduɔ/
+aligeta	/aligeta/
+aligeta pier	/aligeta pɪɛɹ/
+Aligzanda	/aligzanda/
+aliv	/aliv/
+amfisbiinyan	/amfisbiːɲan/
+Amtan	/amtan/
+ana	/ana/
+anarebl	/anaɹebl̩/
+anda	/anda/
+andastan	/andastan/
+aneda	/aneda/
+Anju	/andʒu/
+anlain	/anlaɪn/
+anles	/anles/
+anmigl	/anmigl̩/
+ansofistikietid	/ansofistikɪɛtid/
+Antiiga ahn Baabyuuda	/antiːga ã baːbjuːda/
+Anuova	/anuova/
+Anuova Parish	/anuova paɹiʃ/
+apaat	/apaːt/
+apaint	/apaɪnt/
+apier	/apɪɛɹ/
+apl	/apl̩/
+aplai	/aplaɪ/
+apm	/apm̩/
+aprishiet	/apɹiʃɪɛt/
+apruoch	/apɹuɔtʃ/
+ar	/aɹ/
+ar els	/aɹels/
+aredi	/aɹedi/
+arinj	/aɹindʒ/
+asaalt	/asaːlt/
+aschranami	/astʃɹanami/
+aschranomi	/astʃɹanomi/
+Aschrielia	/astʃɹɪɛlja/
+askaadn	/askaːdn̩/
+askaadn tu	/askaːdn̩ tu/
+aspital	/aspital/
+at	/at/
+Atlantik Uoshan	/atlantik uoʃan/
+atletix	/atletiks/
+atmosfier	/atmosfɪɛɹ/
+aul	/aul/
+avielobl	/avɪɛlobl̩/
+ax	/aks/
+axep	/aksep/
+axtiel	/akstɪɛl/
+aya	/aja/
+azwel	/azwel/
+Ba'aamaz	/ba'aːmaz/
+baaba	/baːba/
+Baabiedoz	/baːbɪɛdoz/
+baagin	/baːgin/
+baal	/baːl/
+baan	/baːn/
+baara	/baːɹa/
+baas	/baːs/
+baaskitbaal	/baːskitbaːl/
+baat	/baːt/
+baazli	/baːzli/
+bad	/bad/
+bada	/bada/
+badarieshan	/badaɹɪɛʃan/
+badi	/badi/
+bai	/baɪ/
+baik	/baɪk/
+bailoji	/baɪlodʒi/
+bait	/baɪt/
+baka bush	/baka buʃ/
+bakbuon	/bakbuɔn/
+bami	/bamɪ/
+ban	/ban/
+banaana	/banaːna/
+Baptis	/baptis/
+batam	/batam/
+batn	/batn̩/
+baul	/baul/
+bax	/baks/
+baxin	/baksin/
+baya	/baya/
+bayagrafi	/bajagɹafi/
+bayosfier	/bajosfɪɛɹ/
+beg yu	/beg ju/
+bekaa	/bekaː/
+bel	/bel/
+ben	/ben/
+bex	/beks/
+bie	/bɪɛ/
+biebi	/bɪɛbi/
+bied	/bɪɛd/
+biefies	/bɪɛfɪɛs/
+biek	/bɪɛk/
+bies	/bɪɛs/
+bies pahn	/bɪɛs pã/
+biesik	/bɪɛsik/
+biesin	/bɪɛsin/
+biev	/bɪɛv/
+bifuo	/bifuɔ/
+bifuor	/bifuɔɹ/
+bifuotaim	/bifuɔtaɪm/
+bifuotaim piipl	/bifuɔtaɪm piːpl̩/
+bigop	/bɪgop/
+biif	/biːl/
+biini	/biːni/
+bikaazn	/bikaːzn̩/
+bil	/bil/
+bil pahn	/bilpã/
+biyain	/bijaɪn/
+bizniz	/bizniz/
+blai	/blaɪ/
+blak	/blak/
+blak pepa	/blak pepa/
+Blak Riva	/blakɹiva/
+blingki	/bliŋki/
+bluu	/bluː/
+bod	/bod/
+bokl	/bokl̩/
+bongjri	/boŋdʒɹi/
+bongx	/boŋks/
+bot	/bot/
+bota	/bota/
+botn	/botn̩/
+bou	/bɔu/
+bout	/bɔut/
+braad	/bɹaːd/
+braatopsi	/bɹaːtopsi/
+Brazil	/bɹazil/
+bred	/bɹed/
+breda	/bɹeda/
+bredfruut	/bɹedfɹuːt/
+brejrin	/bɹedʒɹin/
+briekop	/bɹɪɛkop/
+briev	/bɹɪɛv/
+bring tigeda	/bɹiŋ tigeda/
+bringgl	/bɹiŋgl̩/
+Britn	/bɹitn/
+brok	/bɹok/
+broun	/bɹɔun/
+Bruus	/bɹuːs/
+buk	/buk/
+bulfraag	/bulfɹaːg/
+buod	/buɔd/
+buod a chostii	/buɔdatʃostiː/
+buodn skuul	/buɔdn̩ skuːl/
+buot	/buɔt/
+buut	/buːt/
+bwai	/bwaɪ/
+bwail	/bwaɪl/
+byuuti	/bjuːti/
+chaaj	/tʃaːdʒ/
+chaaklit	/tʃaːklit/
+chaaklit chrii	/tʃaːklit tʃɹiː/
+Chaali	/tʃaːli/
+Chaina	/tʃaɪna/
+chais	/tʃaɪs/
+chakachaka	/tʃakatʃaka/
+chat	/tʃat/
+cheri	/tʃeɹi/
+chichi	/tʃitʃi/
+chienj	/tʃɪɛndʒ/
+chiiz	/tʃiːz/
+chikin	/tʃikin/
+cho	/tʃo/
+chobl	/tʃobl̩/
+choch	/tʃotʃ/
+chokcha	/tʃoktʃa/
+chostii	/tʃostiː/
+chrabl	/tʃɹabl̩/
+chradishan	/tʃɹadiʃan/
+chrai	/tʃɹaɪ/
+chrai fi	/tʃɹaɪfi/
+chrajidi	/tʃɹadʒidi/
+chrang	/tʃɹaŋ/
+chranzfaam	/tʃɹanzfaːm/
+chranzishan	/tʃɹanziʃan/
+chranzishan piiriad	/tʃɹanziʃan piːɹiad/
+chranznashinal	/tʃɹanznaʃinal/
+chrapik	/tʃɹapik/
+chrapikal	/tʃɹapikal/
+chrech	/tʃɹetʃ/
+chrecha	/tʃɹetʃa/
+chrent	/tʃɹent/
+chried	/tʃɹɪɛd/
+chrien	/tʃɹɪɛn/
+chrienin	/tʃɹɪɛnin/
+chriet	/tʃɹɪɛt/
+chrii	/tʃɹiː/
+chriit	/tʃɹiːt/
+chriiti	/tʃɹiːti/
+chrik	/tʃɹik/
+chrikifai	/tʃɹikifaɪ/
+Chrilaani	/tʃɹilaːni/
+Chrinidad ahn Tubiego	/tʃɹinidad ã tubɪɛgo/
+chrompit	/tʃɹompit/
+chruu	/tʃɹuː/
+chuocho	/tʃuɔtʃo/
+chuochuo	/tʃuɔtʃuɔ/
+chupid	/tʃupid/
+chuu-chuu	/tʃuːtʃuː/
+chuuhout	/tʃuːhɔut/
+chuun	/tʃuːn/
+chuut	/tʃuːt/
+chuuz	/tʃuːz/
+daag	/daːg/
+daans	/daːns/
+dailuut	/daɪluːt/
+dairek	/daɪɹek/
+dala	/dala/
+Daminiika	/daminiːka/
+Daminikan Ripoblik	/daminikan ɹipoblik/
+Danal	/danal/
+dangki	/daŋki/
+Darati	/daɹati/
+dash	/daʃ/
+dash awie	/daʃ awɪɛ/
+dashiin	/daʃiːn/
+dat	/dat/
+dat a chuu	/datatʃuː/
+dayalek	/dajalek/
+dayaspora	/dajaspoɹa/
+dayatishan	/dajatiʃan/
+debl	/debl̩/
+ded	/ded/
+definishan	/definiʃan/
+dehn	/dẽ/
+dehn kaali	/dẽ kaːli/
+dekied	/dekɪɛd/
+dem	/dem/
+demakrasi	/demakɹasi/
+dep	/dep/
+Derik	/deɹik/
+deso	/deso/
+dezat	/dezat/
+di	/di/
+di grietis	/digɹɪɛtis/
+di muos	/dimuɔs/
+Di Piiplz Ripoblik a Chaina	/di piːplz ɹipoblik a tʃaɪna/
+di Wes Indiiz	/diwesindiːz/
+di wuol a dem	/diwuɔla dem/
+dibiet	/dibɪɛt/
+die	/dɪɛ/
+dieli	/dɪɛli/
+difiit	/difiːt/
+difikolti	/difikolti/
+difrahn	/difɹã/
+difrans	/difɹans/
+digrii	/digɹiː/
+diil	/diːl/
+diil wid	/diːl wid/
+diklier	/diklɪɛɹ/
+diktieta	/diktɪɛta/
+diktietaship	/diktɪɛtaʃip/
+dimaan	/dimaːn/
+dipaacha	/dipaːtʃa/
+disaid	/disaɪd/
+disaya	/disaja/
+dischribyuushan	/distʃɹibjuːʃan/
+Disemba	/disemba/
+disendant	/disendant/
+disepshos	/dɪsepʃos/
+disgostid	/disgostid/
+Diskovri Bie	/diskovɹibɪɛ/
+distingshan	/distiŋʃan/
+ditiel	/ditɪɛl/
+divaid	/divaɪd/
+dizain	/dizaɪn/
+dizain fi	/dizaɪnfi/
+dizort	/dizoɹt/
+domestikieshan	/domestikɪɛʃan/
+domplin	/domplin/
+dong	/doŋ/
+dopi	/dopɪ/
+dos	/dos/
+doti	/doti/
+doti op	/dotiop/
+dout	/dɔut/
+dukunu	/dukunu/
+duo	/duɔ/
+duohn	/duõ/
+dwiit	/dwiːt/
+dyuu	/djuː/
+ebi	/ebi/
+ebi die	/ebi dɪɛ/
+ebn	/ebn̩/
+ebri	/ebɹi/
+ebribadi	/ebɹibadi/
+ed a stiet	/edastɪɛt/
+edikieshan	/edikɪɛʃan/
+edita	/edita/
+Edwad	/edwad/
+ef	/ef/
+egvaantij	/egvaːntidʒ/
+egzakli	/egzakli/
+egzampl	/egzampl̩/
+egzis	/egzis/
+Eliat	/eliat/
+eliment	/eliment/
+elp	/elp/
+elswe	/elswe/
+en	/en/
+enaji	/enadʒi/
+eni	/eni/
+eniebl	/enɪɛbl̩/
+eniwiez	/eniwɪɛz/
+entapraiz	/entapɹaɪz/
+eritij	/eɹitidʒ/
+esn	/esn̩/
+evidens	/evidens/
+exchienj	/ekstʃɪɛndʒ/
+exchriim	/ekstʃɹiːm/
+exepshan	/eksepʃan/
+exkiep	/ekskɪɛp/
+exkluudn	/ekskluːdn̩/
+expanshan	/ekspanʃan/
+expiriens	/ekspiɹɪɛns/
+expuot	/ekspuɔt/
+extablish	/ekstabli/
+extingk	/ekstiŋk/
+faada	/faːda/
+faal	/faːl/
+faal ina lob	/faːl ina lob/
+faam	/faːm/
+faamat	/faːmat/
+faas	/faːs/
+faatifikieshan	/faːtifikɪɛʃan/
+fagivnis	/fagivnis/
+faia bon	/faɪa bon/
+faib	/faɪb/
+fain	/faɪn/
+fainal	/faɪnal/
+fak	/fak/
+fala	/fala/
+falara	/falaɹa/
+falarin	/falaɹin/
+Falmot	/falmot/
+fambli	/fambli/
+farin	/faɹin/
+fasilitiet	/fasilitɪɛt/
+faya	/faja/
+Febiweri	/febiweɹi/
+feda	/feda/
+feminis	/feminis/
+feminizim	/feminizim/
+fene	/fene/
+fens	/fens/
+fi	/fi/
+fi mi	/fimi/
+fi touzn a ier	/fitɔuzn̩ a ɪɛɹ/
+fiemos	/fɪɛmos/
+fies	/fɪɛs/
+fiesti	/fɪɛsti/
+fiet	/fɪɛt/
+fieva	/fieva/
+fif	/fif/
+fiftiin	/fiftiːn/
+figa	/figa/
+fiicha	/fiːtʃa/
+fiil	/fiːl/
+fiimiel	/fiːmɪɛl/
+fiiva	/fiːva/
+fikshan	/fikʃan/
+filasafi	/filasafi/
+Filipiinz	/filipiːnz/
+finaminan	/finaminan/
+finanshal	/finanʃal/
+fizishan	/fiziʃan/
+fizix	/fiziks/
+flieva	/flɪɛva/
+flim	/flim/
+flod	/flod/
+flowa	/flowa/
+foris	/foɹis/
+form	/foɹm/
+fos	/fos/
+fraag	/fɹaːg/
+frahn	/fɹã/
+frai	/fɹaɪ/
+frai domplin	/fɹaɪ domplin/
+frai plaan	/fɹaɪ plaːn/
+fraitn	/fɹaɪtn̩/
+Frans	/fɹans/
+frenship	/fɹenʃip/
+fruut	/fɹuːt/
+fruut juus	/fɹuːt dʒuːs/
+fufu	/fufu/
+ful	/ful/
+fuo	/fuɔ/
+fuokos	/fuɔkos/
+fuos	/fuɔs/
+fuot	/fuɔt/
+fuotiin	/fuɔtiːn/
+fut	/fut/
+futbaal	/futbaːl/
+fuud	/fuːd/
+fyuil	/fjuil/
+fyuu	/fjuː/
+galang	/galaŋ/
+gens	/gens/
+get apaint	/get apaɪnt/
+get bex	/get beks/
+get hextingk	/get hekstiŋk/
+gien	/gɪɛn/
+giet	/gɪɛt/
+ginep	/ginep/
+gluobal	/gluɔbal/
+gobna	/gobna/
+Gobna-Jinaral	/gobnadʒinaɹal/
+goli	/golɪ/
+golibl	/golibl̩/
+govament	/govament/
+grampierans	/gɹampɪɛɹans/
+griet	/gɹɪɛt/
+grietis	/gɹɪɛtis/
+grii	/gɹiː/
+grii pahn	/gɹiːpã/
+grii se	/gɹiːse/
+griin	/gɹiːn/
+Griis	/gɹiːs/
+Grinieda	/gɹinɪɛda/
+grong	/gɹoŋ/
+gruo	/gɹuɔ/
+gruot	/gɹuɔt/
+guaava	/guaːva/
+gud	/gud/
+gudz	/gudz/
+gunggu	/guŋgu/
+gunggu piiz	/guŋgu piːz/
+guol	/guɔl/
+guot	/guɔt/
+guzu	/guzu/
+gwan	/gwan/
+gyaadn	/ɟaːdn̩/
+gyaalik	/ɟaːlik/
+gyadar	/ɟadaɹ/
+gyadarin	/ɟadaɹin/
+gyal	/ɟal/
+gyas	/ɟas/
+haakiek	/haːkɪɛk/
+haalzwie	/haːlzwɪɛ/
+haatagrafi	/haːtagɹafi/
+haatikl	/haːtikl̩/
+habrij	/habɹidʒ/
+habvios	/habvios/
+hada	/hada/
+hadap	/hadap/
+hadvenchara	/hadventʃaɹa/
+haid	/haɪd/
+hairish	/haɪɹiʃ/
+hairish pitieta	/haɪɹiʃ pitɪɛta/
+hambrela	/hambɹela/
+hanalisis	/hanalisis/
+hanimal	/hanimal/
+harijin	/haɹidʒin/
+hatityuud	/hatitjuːd/
+haxent	/haksent/
+haxesobl	/haksesobl̩/
+haxpek	/hakspek/
+hayan	/hajan/
+hayan-mekin	/hajanmekin/
+haz	/haz/
+hebini	/hebini/
+hebm	/hebm̩/
+hedituoryal	/hedituɔɹjal/
+heg	/heg/
+hels	/hels/
+hen	/hen/
+hen a	/hena/
+heni	/heni/
+heni a	/henia/
+heni a di abov	/henia diabov/
+heniting	/henitiŋ/
+heniting hels	/henitiŋ hels/
+hexpand	/hekspand/
+hexplien	/heksplɪɛn/
+hexpreshan	/hekspɹeʃan/
+hextingk	/hekstiŋk/
+hidyam	/hidjam/
+hIeja	/hɪɛdʒa/
+hiem	/hɪɛm/
+hiet	/hɪɛt/
+hietiin	/hɪɛtiːn/
+hifek	/hifek/
+higla	/higla/
+hiit	/hiːt/
+hiiz	/hiːz/
+hilekchranik	/hilektʃɹanik/
+hilekchranik komiunikieshan	/hilektʃɹanik komjunikɪɛʃan/
+himpres	/himpɹes/
+hinchradokshan	/hintʃɹadokʃan/
+hinchrajuus	/hintʃɹadʒuːs/
+hinchres	/hintʃɹes/
+hinfluens	/hinfluens/
+hingglish	/hiŋgliʃ/
+hinishal	/hiniʃal/
+hinkluudn	/hinkluːdn̩/
+hintanashinal	/hintanaʃinal/
+hintanashinal chrabl	/hintanaʃinal tʃɹabl̩/
+hofishal	/hofiʃal/
+hofishal langwij	/hofiʃal laŋwidʒ/
+honggl	/hoŋgl̩/
+honyan	/hoɲan/
+hopin-en	/hopinen/
+horbanizieshan	/hoɹbanizɪɛʃan/
+horli	/hoɹli/
+howa	/howa/
+hox	/hoks/
+huobaluk	/huɔbaluk/
+huol	/huɔl/
+huol-taima	/huɔltaɪma/
+huoliip	/huɔliːp/
+huoral	/huɔɹal/
+huoral langwij	/huɔɹal laŋwidʒ/
+huovn	/huɔvn̩/
+ie	/ɪɛ/
+iebl	/ɪɛbl̩/
+Ieda	/ɪɛda/
+iej	/ɪɛdʒ̩/
+iejobl	/ɪɛdʒobl̩/
+iel	/ɪɛl/
+Iemi	/ɪɛmi/
+ienshent	/ɪɛnʃent/
+Iepril	/ɪɛpɹil/
+ier	/ɪɛɹ/
+ieria	/ɪɛɹia/
+ies	/ɪɛs/
+iet	/ɪɛt/
+Ieti	/ɪɛti/
+iez	/iez/
+ifainali	/ifaɪnali/
+ifek	/ifek/
+iguaana	/iguaːna/
+igwaana	/igwaːna/
+ihn	/ĩ/
+iibm	/iːbm̩/
+iibn	/iːbn̩/
+iihn	/ĩː/
+iikwal	/iːkwal/
+iip	/iːp/
+iir	/iːɹ/
+iis	/iːs/
+iistan	/iːstan/
+iit	/iːt/
+iivn	/iːvn̩/
+ikanami	/ikanami/
+ikanamik	/ikanamik/
+ikanamix	/ikanamiks/
+ilek	/ilek/
+iloschrieshan	/ilostʃɹɪɛʃan/
+im	/im/
+impak	/impak/
+impruuv	/impɹuːv/
+impuotant	/impuɔtant/
+imuoshan	/imuɔʃan/
+in fak	/infak/
+ina	/ina/
+ina di faam a	/inadi faːma/
+ina di wol	/inadi wol/
+inaamos	/inaːmos/
+inabit	/inhabit/
+indipendans	/indipendans/
+indischroktebl	/indistʃɹoktebl̩/
+indoschri	/indostʃɹi/
+indoschrial	/indostʃɹial/
+indoschrializieshan	/indostʃɹializɪɛʃan/
+infamieshan	/infamɪɛʃan/
+influens	/influens/
+inggiej	/iŋgɪɛdʒ/
+Ingglan	/iŋglan/
+ingkluudn	/iŋkluːdn̩/
+ingkorij	/iŋkoɹidʒ/
+iniebl	/inɪɛbl̩/
+injai	/indʒaɪ/
+injinierin	/indʒinɪɛɹin/
+inkluud	/inkluːd/
+inkriis	/inkɹiːs/
+inruol	/inɹuɔl/
+insaiklopiidya	/insaɪklopiːdja/
+inspaya	/inspaya/
+intaikl	/intaɪkl̩/
+intanashinal	/intanaʃinal/
+intanet	/intanet/
+invalv	/invalv/
+inviejan	/invɪɛdʒan/
+ischri	/istʃɹi/
+ishu	/iʃhu/
+istuorian	/istuɔɹian/
+it	/it/
+Itali	/itali/
+ivalv	/ivalv/
+ivenchuali	/iventʃuali/
+ivent	/ivent/
+jaagrafi	/dʒaːgɹafi/
+jaagrofi	/dʒaːgɹofi/
+Jaaj	/dʒaːdʒ/
+jaaloji	/dʒaːlodʒi/
+jain	/dʒaɪn/
+jainop	/dʒaɪnop/
+jakfruut	/dʒakfɹuːt/
+jaloji	/dʒalodʒi/
+Jan	/dʒan/
+jangkro	/dʒaŋkɹo/
+Janiweri	/dʒaniweɹi/
+Japan	/dʒapan/
+jeli	/dʒeli/
+jeliduo	/dʒeliduɔ/
+jiel	/dʒɪɛl/
+Jiemz	/dʒɪɛmz/
+Jien	/dʒɪɛn/
+jinaral	/dʒinaɹal/
+jinarasiti	/dʒinaɹasiti/
+jinarieshan	/dʒinaɹɪɛʃan/
+jinja	/dʒindʒa/
+joj	/dʒodʒ/
+jonjo	/dʒondʒo/
+jork	/dʒoɹk/
+jork chikin	/dʒoɹk tʃikin/
+jork puok	/dʒoɹk puɔk/
+jork siiznin	/dʒoɹk siːznin/
+jork spais	/dʒoɹk spaɪs/
+Jormani	/joɹmani/
+jornal	/dʒoɹnal/
+jraa	/dʒɹaː/
+jraadong	/dʒɹaːdoŋ/
+jraaf	/dʒɹaːf/
+jraafut	/dʒɹaːfut/
+jraaz	/dʒɹaːz/
+jrai	/dʒɹaɪ/
+jramatik	/dʒɹamatik/
+jrap	/dʒɹap/
+jred	/dʒɹed/
+jres	/dʒɹes/
+jresbak	/dʒɹesbak/
+jresdong	/dʒɹesdoŋ/
+jriepop	/dʒɹɪɛpop/
+jringk	/dʒɹiŋk/
+jrog	/dʒɹog/
+jrom	/dʒɹom/
+juk	/dʒuk/
+Julai	/dʒulaɪ/
+Jumieka	/dʒumɪɛka/
+Jumieka Lieba Paati	/jumɪɛka lɪɛba paːti/
+Jumieka Taak	/dʒumɪɛka taːk/
+jump	/dʒomp/
+jump-up	/dʒompop/
+junjo	/dʒundʒo/
+Juo	/dʒuɔ/
+juok	/dʒuɔk/
+juu tu	/dʒuːtu/
+Juun	/dʒuːn/
+juun plom	/dʒuːnplom/
+juurin	/dʒuːɹin/
+juus	/dʒuːs/
+kaa	/kaː/
+kaal	/kaːl/
+kaan	/kaːn/
+kaanful	/kaːnful/
+Kaanwal Kounti	/kaːnwal kounti/
+kaazn	/kaːzn̩/
+kach banit pepa	/katʃ banit pepa/
+kain	/kaɪn/
+kait	/kaɪt/
+kak	/kak/
+kalalu	/kalalu/
+kalani	/kalani/
+kalanis	/kalanis/
+kalek	/kalek/
+kalekshan	/kalekʃan/
+kalij	/kalɪdʒ/
+kaman	/kaman/
+kaman yuusij	/kaman juːsidʒ/
+kamedi	/kamedi/
+kanchosnis	/kantʃosnis/
+kanchuol	/kantʃuɔl/
+kanekshan	/kanekʃan/
+kanschrokshan	/kanstʃɹokʃan/
+kansda	/kansda/
+kantent	/kantent/
+kantinyu	/kantiɲu/
+kanvasieshan	/kanvasɪɛʃan/
+karambuola	/kaɹambuɔla/
+kasaada	/kasaːda/
+kasaava	/kasaːva/
+Kasta Riika	/kastaɹiːka/
+katn	/katn̩/
+katn chrii	/katn̩ tʃɹiː/
+kaul	/kaul/
+kazmopalitan	/kazmopalitan/
+kech	/ketʃ/
+kech di riek	/ketʃ di ɹɪɛk/
+kechop	/ketʃop/
+kelyan	/keljan/
+Kenet	/kenet/
+Kianada	/kjanada/
+Kiaribiyan	/kjaɹibijan/
+kidni biin	/kidni biːn/
+kiedens	/kɪɛdens/
+kieful	/kɪɛful/
+kiek	/kɪɛk/
+kien	/kien/
+kies	/kɪɛs/
+Kiet	/kɪɛt/
+kilomita	/kilomita/
+kimischri	/kimistʃɹi/
+kin	/kin/
+kindom	/kindom/
+Kinston	/kinston/
+kisaada	/kisaːda/
+klaat	/klaːt/
+Klaax Tong	/klaːkstoŋ/
+Klarindan	/klaɹindan/
+klasikal	/klasikal/
+kliem	/klɪɛm/
+Klier	/klɪɛɹ/
+Kliermont	/klɪɛɹmont/
+Klifod	/klifod/
+kola	/kola/
+kolcha	/koltʃa/
+kom	/kom/
+kom iin laka	/komiːn laka/
+kom ya	/kom ja/
+komiunikieshan	/komjunikɪɛʃan/
+kompail	/kompaɪl/
+kompyuuta	/kompjuːta/
+kompyuuta manita	/kompjuːta manita/
+konchri	/kontʃɹi/
+kongk	/koŋk/
+korant	/koɹant/
+kori guot	/koɹi guɔt/
+koril	/koɹil/
+korl	/koɹl/
+koskos	/koskos/
+kostad apl	/kostad apl̩/
+kot	/kot/
+kot patwa	/kot patwa/
+kot yai	/kot jaɪ/
+kotlis	/kotlis/
+kou	/kɔu/
+kounti	/kɔunti/
+kowich	/kowitʃ/
+kozn	/koːzn̩/
+kraani	/kɹaːni/
+kraitiirya	/kɹaɪtiːɹja/
+krap	/kɹap/
+krichoul	/kɹitʃɔul/
+kriebn	/kɹɪɛbn̩/
+kriep	/kɹɪɛp/
+kriet	/kɹiet/
+krietiv	/kɹɪɛtiv/
+krietiv raitn	/kɹɪɛtiv ɹaɪtn̩/
+kriim	/kɹiːm/
+krikit	/kɹikit/
+kris	/kɹis/
+kritikal akliem	/kɹitikal aklɪɛm/
+ku	/ku/
+kudn	/kudn̩/
+kuk	/kuk/
+kukumba	/kukumba/
+kuoknat	/kuɔknat/
+kuoknat chrii	/kuɔknat tʃɹiː/
+kuoknat milk	/kuɔknat mɪlk/
+kuoknat waata	/kuɔknat waːta/
+kuoko	/kuɔko/
+kuol	/kuɔl/
+kuos	/kuɔs/
+kuot	/kuɔt/
+kuul	/kuːl/
+kwaadinet	/kwaːdinet/
+kwaat	/kwaːt/
+kwait	/kwaɪt/
+kwayat	/kwajat/
+kwiin	/kwiːn/
+kwik	/kwik/
+kwik-taim	/kwiktaɪm/
+kwint	/kwint/
+kyaa	/kjaː/
+kyaahn	/kjãː/
+kyaar	/kjaːɹ/
+kyaarat	/kjaːɹat/
+kyabij	/kjabidʒ/
+kyahn	/kjã/
+Kyaklik	/kjaklik/
+kyanal	/kjanal/
+kyanggl	/kjaŋgl̩/
+kyangkro	/kjaŋkɹo/
+kyapasiti	/kjapasiti/
+kyapcha	/kjaptʃa/
+kyapital	/kjapital/
+kyapitalis	/kjapitalis/
+kyaptin	/kjaptin/
+kyarakta	/kjaɹakta/
+Kyari	/kjaɹi/
+kyash	/kjaʃ/
+kyash krap	/kjaʃ kɹap/
+kyashu	/kjaʃu/
+kyata	/kjata/
+kyatalis	/kjatalis/
+kyatigari	/kjatigaɹi/
+Kyuuba	/kjuːba/
+laaf	/laːf/
+laaj	/laːdʒ/
+laan	/laːn/
+labsta	/labsta/
+lai	/laɪ/
+laibri	/laɪbɹi/
+laif	/laɪf/
+laifstail	/laɪfstaɪl/
+laik	/laɪk/
+lait	/laɪt/
+laitous	/laɪtɔus/
+laiyad	/laɪjad/
+laiyan	/laɪjan/
+laka	/laka/
+laka se	/lakase/
+lam	/lam/
+lan	/lan/
+Landan	/landan/
+lang	/laŋ/
+langwij	/laŋwidʒ/
+Larans	/laɹans/
+layad	/lajad/
+lebl	/lebl̩/
+lebm	/lebm̩/
+lego	/lego/
+lego biis	/lego biːs/
+lejislieta	/ledʒislɪɛta/
+lent	/lent/
+leta	/leta/
+lib a farin	/libafaɹin/
+libn	/libn̩/
+libn langwij	/libn̩ laŋwidʒ/
+lichicha	/litʃitʃa/
+lieba	/lɪɛba/
+liedi	/lɪɛdi/
+liet	/lɪɛt/
+lieta	/lɪɛta/
+lieya	/lɪɛja/
+lifop	/lifop/
+liida	/liːda/
+liig	/liːg/
+liin	/liːn/
+lik	/lik/
+likl	/likl̩/
+likl muos	/likl̩ muɔs/
+lili	/lili/
+lingguistik	/liŋguistik/
+linggwis	/liŋgwis/
+lis	/lis/
+lis a	/lisa/
+lisn	/lisn̩/
+litosfier	/litosfɪɛɹ/
+lizad	/lizad/
+lob	/lob/
+long	/loŋ/
+lorn	/loɹn/
+lou	/lɔu/
+luo	/lʊo/
+luokal	/luɔkal/
+luokalaiz	/luɔkalaɪz/
+luokiet	/luɔkɪɛt/
+luokiet ina	/luɔkɪɛt ina/
+luokiet nier	/luɔkɪɛt nɪɛɹ/
+Luusi	/luːsi/
+Luwi	/luwi/
+Luwiiz	/luwiːz/
+Maach	/maːtʃ/
+maaga	/maːga/
+Maak	/maːk/
+maakit	/maːkit/
+Maakos	/maːkos/
+maanin	/maːnin/
+mada-tong	/madatoŋ/
+madan	/madan/
+madifai	/madifaɪ/
+madifikieshan	/madifikɪɛʃan/
+magaziin	/magaziːn/
+magij	/magɪdʒ/
+magl	/magl̩/
+maigrieshan	/maɪgɹɪɛʃan/
+Maikal	/maɪkal/
+maitbi	/maɪtbi/
+majariti	/madʒaɹiti/
+man	/man/
+manatii	/manatiː/
+manazebl	/manazebl̩/
+Manchesta	/mantʃesta/
+Mandivl	/mandivl̩/
+manggo	/maŋgo/
+mangguus	/maŋguːs/
+manita	/manita/
+Mantiga Bie	/mantiga bɪɛ/
+manyufakcha	/maɲufaktʃa/
+manyufakcharin	/maɲufaktʃaɹin/
+Maruun Tong	/maɹuːntoŋ/
+mas	/mas/
+mas komiunikieshan	/mas komjunikɪɛʃan/
+mashet	/maʃet/
+mashiin	/maʃiːn/
+mashiin tuul	/maʃiːn tuːl/
+mashiinri	/maʃiːnɹi/
+matiirialis	/matiːɹialis/
+matimatix	/matimatiks/
+medisn	/medisn̩/
+meditieshan	/meditɪɛʃan/
+meja	/medʒa/
+mejament	/medʒament/
+mek	/mek/
+mekop	/mekop/
+Mexiko	/meksiko/
+mi	/mi/
+midiom	/midiom/
+midya	/midja/
+Mie	/mɪɛ/
+Mie Pen	/mɪɛpen/
+miebi	/mɪɛbi/
+mieja	/mɪɛdʒa/
+miel	/mɪɛl/
+mien	/mɪɛn/
+mienli	/mɪɛnli/
+Mieri	/mɪɛɹi/
+migl	/migl̩/
+Migl Iis	/migl̩ iːs/
+migl-klaas	/migl̩ klaːs/
+Miglsex Kounti	/migl̩seks kounti/
+miin	/miːn/
+miinin	/miːnin/
+miit	/miːt/
+miita	/miːta/
+miizolek	/miːzolek/
+milichri	/militʃɹi/
+milyan	/miljan/
+mimuorial	/mimuɔɹial/
+minista	/minista/
+mishaneri	/miʃaneɹi/
+misnuoma	/misnuɔma/
+mixcha	/mikstʃa/
+mixcho	/mikstʃo/
+Mobie	/mɔbɪɛ/
+mongx	/moŋks/
+Morant Bie	/moɹantbɪɛ/
+mountn	/mɔuntn̩/
+mout	/mɔut/
+muo	/muɔ/
+muo dahn	/muɔdã/
+muobail	/muɔbaɪl/
+muos	/muɔs/
+muosli	/muɔsli/
+muotaim	/muɔtaɪm/
+muuv	/muːv/
+muuv frahn	/muːvfɹã/
+muuv gaa	/muːvgaː/
+myuuzik	/mjuːzik/
+myuziom	/mjuziom/
+na	/na/
+na fi	/nafi/
+na kech di riek	/na ketʃ di ɹɪɛk/
+na onggl	/na oŋgl̩/
+naamali	/naːmali/
+Naaman	/naːman/
+naasi	/naːsi/
+naasti	/naːsti/
+naat	/naːt/
+Naat Afrika	/naːt afɹika/
+Naat Amerika	/naːt amɛɹɪka/
+nadan	/nadan/
+Naijiiria	/naɪdʒiːɹja/
+nain	/naɪn/
+naint	/naɪnt/
+naintiin	/naɪntiːn/
+nais	/naɪs/
+nait	/naɪt/
+naiz	/naɪz/
+nalij	/nalidʒ/
+nanfikshan	/nanfikʃan/
+Nansi	/nansi/
+naritiv	/naɹitiv/
+navl	/navl̩/
+neba	/neba/
+Nedalanz	/nedalanz/
+nex	/neks/
+niecha	/nɪɛtʃa/
+niel	/nɪɛl/
+niem	/nɪɛm/
+niernis	/nɪɛɹnis/
+nieshan	/nɪɛʃan/
+nieshan stiet	/nɪɛʃan stɪɛt/
+nietib	/nɪɛtib/
+nietib langwij	/nɪɛtib laŋwidʒ/
+Nigril	/nigɹil/
+niyilis	/nijilis/
+no kja	/nokja/
+no kja umoch	/nokja umotʃ/
+no kwait	/no kwaɪt/
+no riili	/no ɹiːli/
+nof	/nof/
+nof piipl	/nof piːpl̩/
+nof tangx	/nof taŋks/
+nof-nof	/nofnof/
+noftaim	/noftaɪm/
+nomba	/nomba/
+non	/non/
+nondiles	/nondiles/
+notn	/notn̩/
+notn na go so	/notn̩ nagoso/
+Novemba	/novemba/
+nuo	/nuɔ/
+nuot	/nuɔt/
+nuotobl	/nuɔtobl̩/
+nuoz	/nuɔz/
+nyaamps	/ɲaːmps/
+nyam	/ɲam/
+nyuu	/ɲuː/
+Nyuu Yaak	/njuːjaːk/
+Nyuu Yaak Siti	/njuːjaːk siti/
+nyuuz	/ɲuːz/
+nyuuzpiepa	/ɲuːzpɪɛpa/
+ogli	/oglɪ/
+okor	/okoɹ/
+okro	/okɹo/
+olo	/olo/
+ombl	/ombl̩/
+onggl	/oŋgl̩/
+onggl wan	/oŋgl̩ wan/
+onjrid	/ondʒɹid/
+ont	/ont/
+ontalaji	/ontaladʒi/
+ontin	/ontin/
+ontruut	/ontɹuːt/
+op	/op/
+op tu	/optu/
+opdiet	/opdɪɛt/
+opinyan	/opiɲan/
+opsaid dong	/opsaɪd doŋ/
+Orbort	/oɹboɹt/
+ort	/oɹt/
+ortkwiek	/oɹtkwɪɛk/
+ou	/ɔu/
+ous	/ɔus/
+ousomeba	/ɔusomeba/
+Owad	/owad/
+ozban	/ozban/
+paadn	/paːdn̩/
+Paal	/paːl/
+paaliment	/paːliment/
+paarat	/paːɹat/
+paas dong	/paːsdoŋ/
+paas ischri	/paːs istʃɹi/
+paasl	/paːsl̩/
+paasn	/paːsn̩/
+paasteriti	/paːsteɹiti/
+paat	/paːat/
+paat a	/paːta/
+paati	/paːti/
+Pachrik	/patʃɹik/
+pahn	/pã/
+pain	/paɪn/
+paint	/paɪnt/
+Pakistan	/pakistan/
+pakit	/pakit/
+paliis	/paliːs/
+palisi	/palisi/
+palitikal	/palitikal/
+palitishan	/palitiʃan/
+palitix	/palitiks/
+Panish	/panish/
+Panish Tong	/paniʃtoŋ/
+papilieshan	/papilɪɛʃan/
+papishuo	/papiʃuɔ/
+papyulieshan	/papjulɪɛʃan/
+pashan fruut	/paʃan fɹuːt/
+pati	/pati/
+patwa	/patwa/
+pel	/pel/
+pelin	/pelin/
+pepa	/pepa/
+picha	/pitʃa/
+picha buk	/pitʃa buk/
+pie	/pɪɛ/
+pie fa	/pɪɛfa/
+piej	/pɪɛdʒ/
+piepa	/pɪɛpa/
+pier	/pɪɛɹ/
+pierans	/pɪɛɹans/
+pieschri	/pɪɛstʃɹi/
+pieshans	/pɪɛʃans/
+piich patan	/piːtʃ patan/
+piik	/piːk/
+piika	/piːka/
+piiki-puoki	/piːkipuɔki/
+piil	/piːl/
+piini	/pːini/
+piini-waali	/piːniwaːli/
+piipl	/piːpl̩/
+Piipl Nashinal Paati	/piːpl̩ naʃinal paːti/
+piiriad	/piːɹiad/
+piis	/piːs/
+Piita	/piːta/
+piiz	/piːz/
+pikni	/pikni/
+pilikin	/pilikin/
+pimenta	/pimenta/
+pio	/pio/
+pitieta	/pitɪɛta/
+pitni	/pitni/
+plaan	/plaːn/
+plaant	/plaːnt/
+plaantin	/plaːntin/
+pleja	/pledʒa/
+plie	/plɪɛ/
+plies	/plɪɛs/
+pliet	/plɪɛt/
+plit	/plit/
+poblik	/poblik/
+poblikieshan	/poblikɪɛʃan/
+poblish	/pobliʃ/
+poblisha	/pobliʃa/
+pofaam	/pofaːm/
+poliis	/poliːs/
+poliisman	/poliːsman/
+politikal paati	/politikal paːti/
+pongkin	/poŋkin/
+por-kiapita	/poɹ kjapita/
+porl	/poɹl/
+pormanent	/poɹmanent/
+posnal	/posnal/
+posnal infamieshan	/posnal infamɪɛʃan/
+pospektiv	/pospektiv/
+potenshal	/potenʃal/
+potienin	/potɪɛnin/
+potikila	/potikila/
+potikyula	/potikjula/
+powa	/powa/
+prablem	/pɹablem/
+praim	/pɹaɪm/
+praim minista	/pɹaɪm minista/
+prais	/pɹaɪs/
+praivisi	/pɹaɪvisi/
+prajek	/pɹadʒek/
+pravins	/pɹavins/
+pred	/pɹed/
+preke	/pɹeke/
+priivos	/pɹiːvos/
+primenta	/pɹimenta/
+prizaab	/pɹizaːb/
+prizn	/pɹizn̩/
+prodok	/pɹodok/
+prodokshan	/pɹodokʃan/
+profeshanal chrienin	/pɹofeʃanal tʃɹɪɛnin/
+pronongx	/pɹonoŋks/
+protek	/pɹotek/
+protekshan	/pɹotekʃan/
+prumuot	/pɹumuɔt/
+pruogram	/pɹuɔgɹam/
+pruoses	/pɹuɔses/
+pudn	/pudn̩/
+puo	/puɔ/
+puohim	/puɔhim/
+puok	/puɔk/
+puos	/puɔs/
+Puosha	/puɔʃa/
+puosi	/puɔsi/
+puot	/puɔt/
+Puot Antuoni	/puɔt antuɔni/
+Puot Maraya	/puotmaɹaja/
+Puotlan	/puɔtlan/
+Puotmuor	/puotmuoɹ/
+pupaa	/pupaː/
+pus	/pus/
+pwail	/pwaɪl/
+pyaa-pyaa	/pjaːpjaː/
+pyuuriti	/pjuːɹɪtɪ/
+raa	/ɹaː/
+raatid	/ɹaːtid/
+raip	/ɹaɪp/
+rais	/ɹaɪs/
+rais ahn piiz	/ɹaɪs ã piːz/
+rait	/ɹaɪt/
+raita	/ɹaɪta/
+raitn	/ɹaɪtn̩/
+Raki Paint	/ɹakipaɪnt/
+raktuon	/ɹaktuɔn/
+rang	/ɹaŋ/
+Raya Byuuno	/ɹajabjuːno/
+reda	/ɹeda/
+redi	/ɹedɪ/
+refa	/ɹefa/
+refa tu	/ɹefatu/
+refa tu az	/ɹefatuaz/
+refarans	/ɹefaɹans/
+refarans buk	/ɹefaɹans buk/
+refrans	/ɹefɹans/
+rekaad	/ɹekaːd/
+rekanaiz	/ɹekanaɪz/
+rekanaiz se	/ɹekanaɪzse/
+rekanishan	/ɹekaniʃan/
+respirieshan	/ɹespiɹɪɛʃan/
+revaluushan	/ɹevaluːʃan/
+revarii	/ɹevaɹiː/
+revinyuu	/ɹeviɲuː/
+riba	/ɹiba/
+ribelyan	/ɹibeljan/
+ridim	/ɹidim/
+ried	/ɹɪɛd/
+riedio	/ɹɪɛdio/
+riek	/ɹɪɛk/
+rielwie	/ɹɪɛlwɪɛ/
+rielwie stieshan	/ɹɪɛlwɪɛ stɪɛʃan/
+rien	/ɹɪɛn/
+rienj	/ɹɪɛndʒ/
+ries	/ɹɪɛs/
+riesin	/ɹɪɛsin/
+riesizim	/ɹɪɛsizim/
+rieza	/ɹɪɛza/
+riezn	/ɹɪɛzn̩/
+rifaam	/ɹifaːm/
+rifain	/ɹifaɪn/
+rigl	/ɹigl̩/
+riid	/ɹiːd/
+riida	/ɹiːda/
+riijan	/ɹiːdʒan/
+riijanal	/ɹiːdʒanal/
+riili	/ɹiːli/
+riisant	/ɹiːsant/
+riizn	/ɹiːzn̩/
+rijais	/ɹijaɪs/
+rilaxieshan	/ɹilaksɪɛʃan/
+rilieshanship	/ɹilɪɛʃanʃip/
+rilietid	/ɹilɪɛtid/
+riliis	/ɹiliːs/
+rilijan	/ɹilidʒan/
+rimien	/ɹimɪɛn/
+ripoblik	/ɹipoblik/
+Ripoblik a Airilan	/ɹipoblik a aɪɹilan/
+Ripoblik a Chaina	/ɹipoblik a tʃaɪna/
+riprizent	/ɹipɹizent/
+ris	/ɹis/
+rispek	/ɹispek/
+ritorn	/ɹitoɹn/
+Rivazdiel	/ɹivazdɪɛl/
+rivuolt	/ɹivuɔlt/
+rizaat	/ɹizaːt/
+rizolt	/ɹizolt/
+romantik	/ɹomantik/
+ron	/ɹon/
+Ronawe Bie	/ɹonawebɪɛ/
+Rosha	/ɹoʃa/
+ruod	/ɹuɔd/
+Ruoman Kyaklik	/ɹuɔman kjaklik/
+Ruoman Kyaklik Choch	/ɹuɔman kjaklik tʃotʃ/
+ruos	/ɹuɔs/
+ruudnis	/ɹuːdnis/
+ruul	/ɹuːl/
+ruut	/ɹuːt/
+saab	/saːb/
+saabis	/saːbis/
+saach	/saːtʃ/
+Saadi Ariebia	/saːdi aɹɪɛbja/
+saaf	/saːf/
+saalfish	/saːlfiʃ/
+saaya saas	/saːja saːs/
+sai	/saɪ/
+sait	/saɪt/
+saiyans	/saɪjans/
+sakrifais	/sakɹifaɪs/
+Salaman	/salaman/
+Samyuel	/samjuel/
+san	/san/
+sang	/saŋ/
+Sanja	/sandʒa/
+Santa Kruuz	/santakɹuːz/
+santapii	/santapiː/
+sar	/saɹ/
+saril	/saɹil/
+sasayati	/sasajati/
+sataya	/sataja/
+Savlamaar	/savlamaːɹ/
+sayans	/sajans/
+sayantis	/sajantis/
+schraip	/stʃɹaɪp/
+schuu	/stʃuː/
+se	/se/
+sebm	/sebm̩/
+sebmt	/sebm̩t/
+sebmtiin	/sebm̩tiːn/
+sebn	/sebn̩/
+sebnt	/sebn̩t/
+sebntiin	/sebn̩tiːn/
+sebral	/sebɹal/
+sef	/sef/
+sekan	/sekan/
+sekl	/sekl̩/
+seklment	/sekl̩ment/
+sekshan	/sekʃan/
+sela	/sela/
+Senchral hIeja	/sentʃɹalhɪɛdʒa/
+senchri	/sentʃɹi/
+senit	/senit/
+senita	/senita/
+sens	/sens/
+sensobl	/sensobl̩/
+sensos	/sensos/
+sentans	/sentans/
+sentri	/sentɹi/
+separieshan	/sepaɹɪɛʃan/
+Septemba	/septemba/
+set a ruul	/setaɹuːl/
+sexizim	/seksizim/
+sfier	/sfɪɛɹ/
+shaachij	/ʃaːtʃɪdʒ/
+shaat	/ʃaːt/
+shap	/ʃap/
+sheda	/ʃeda/
+shiem	/ʃɪɛm/
+shier	/ʃɪɛɹ/
+shob	/ʃob/
+shot	/ʃot/
+shout	/ʃɔut/
+shudn	/ʃudn̩/
+shuga	/ʃuga/
+shuga kien	/ʃuga kɪɛn/
+shuo	/ʃuɔ/
+shuut	/ʃuːt/
+si	/si/
+sib	/sib/
+sidong	/sidoŋ/
+siek a	/sɪɛka/
+sieka	/sɪɛka/
+siem	/sɪɛm/
+siem wie	/sɪɛm wɪɛ/
+siem wie laka ef	/sɪɛm wɪɛ laka ef/
+Siera	/sɪɛɹa/
+sii	/siː/
+sii kyaptin	/siː kjaptin/
+siikuel	/siːkwel/
+siim	/siːm/
+siim fi	/siːmfi/
+siin	/siːn/
+siis	/siːs/
+siitorkl	/siːtoɹkl̩/
+siizn	/siːzn̩/
+siiznin	/siːznin/
+sik	/sɪk/
+silekshan	/silekʃan/
+Silvia	/silvia/
+Sin Jiemz	/sindʒɪɛmz/
+Sin Kiachrin	/sinkjatʃɹin/
+Sin Kits ahn Niivis	/sinkits ã niːvis/
+Sin Luusha	/sinluːʃa/
+Sin Mieri	/sinmɪɛɹi/
+Sin Tamas	/sintamas/
+Sin Vinsn ahn di Grenidiinz	/sinvinsn̩ ã di gɹenidiːnz/
+sing	/sɪŋ/
+singa	/siŋa/
+Singgapuor	/siŋgapuoɹ/
+siniek	/sinɪɛk/
+sinieli	/sɪnɪɛli/
+Sint An	/sintan/
+Sint Anju	/sintandʒu/
+Sint Anz Bie	/sintanzbɪɛ/
+Sint Ilizibet	/sintilizibet/
+sinting	/sintiŋ/
+sipl	/sipl̩/
+sistim	/sistim/
+siti	/siti/
+sitieshan	/sitɪɛʃan/
+sitiet	/sitɪɛt/
+sitizn	/sitizn̩/
+sitn	/sitn̩/
+six	/siks/
+sixt	/sikst/
+sixtiin	/sikstiːn/
+skai	/skaɪ/
+skelyan	/skeljan/
+skuul	/skuːl/
+skwier	/skwɪɛɹ/
+skwier kilomita	/skwɪɛɹ kilomita/
+slait	/slaɪt/
+slieb	/slɪɛb/
+sluo	/slʊo/
+smadi	/smadi/
+smadi els	/smadi els/
+smadi uu	/smadi uː/
+so langx az	/solaŋksaz/
+sobjek	/sobdʒek/
+sodan	/sodan/
+sofa	/sofa/
+sofarieshan	/sofaɹɪɛʃan/
+sohn	/sõ/
+sojes	/sodʒes/
+som	/som/
+somwe	/somwe/
+sopraizn	/sopɹaɪzn̩/
+sopres	/sopɹes/
+Sori Kounti	/soɹi kounti/
+sorkl	/soɹkl̩/
+sorniem	/soɹnɪɛm/
+sorosi	/soɹosi/
+soroun	/soɹɔun/
+soroun bai	/soɹɔun baɪ/
+sostien	/sostɪɛn/
+soun	/sɔun/
+sout	/sɔut/
+Sout Afrika	/sout afɹika/
+Sout Koria	/sout koɹia/
+Soutiis Ieja	/soutiːsɪɛdʒa/
+spais	/spaɪs/
+spekchrom	/spektʃɹom/
+Spien	/spɪɛn/
+spies	/spɪɛs/
+spiishiz	/spiːʃiz/
+spuoxman	/spuɔksman/
+staach	/staːtʃ/
+staar	/staːɹ/
+staar apl	/staːɹ apl̩/
+staarfruut	/staːɹ fɹuːt/
+staat	/staːt/
+stail	/staɪl/
+stiebl	/stɪɛbl̩/
+stiej	/stɪɛdʒ/
+stieshan	/stɪɛʃan/
+stiet	/stɪɛt/
+stietos	/stɪɛtos/
+Stiibm	/stiːbm̩/
+stiim	/stiːm/
+stiim powa	/stiːm powa/
+stodi	/stodi/
+stuon	/stuɔn/
+suhn	/sũ/
+suimz	/suimz/
+Suitsalan	/suitsalan/
+sumaal	/sumaːl/
+sumuud	/sumuːd/
+suop	/suɔp/
+suos	/suɔs/
+suoshal	/suɔʃal/
+suoshal woka	/suɔʃal woka/
+Suoviet Yuunian	/suovɪɛt juːnjan/
+susu	/susu/
+suucha	/suːtʃa/
+suup	/suːp/
+Swiidn	/swiːdn̩/
+swiit	/swiːt/
+swiit pepa	/swiːt pepa/
+swiit pitieta	/swiːt pitɪɛta/
+swimin	/swimin/
+taak	/taːk/
+taakin	/taːkin/
+taat	/taːt/
+taat frahn	/taːt fɹã/
+taikl	/taɪkl̩/
+Tailan	/taɪlan/
+taim	/taɪm/
+talawa	/talawa/
+tambrik	/tambɹik/
+tambrin	/tambɹin/
+tan	/tan/
+tandad	/tandad/
+tangx	/taŋks/
+tap	/tap/
+tapik	/tapik/
+tayad	/tajad/
+tek	/tek/
+tek iin	/tekiːn/
+tek plies	/tek plɪɛs/
+tek uoba	/tekuɔba/
+tekniik	/tekniːk/
+tel	/tel/
+tel nou	/tel nɔu/
+ten	/ten/
+tenis	/tenis/
+tent	/tent/
+tenya	/teɲa/
+terichri	/teɹitʃɹi/
+tertiin	/teɹtiːn/
+textail	/tekstaɪl/
+tide	/tide/
+tiebl	/tɪɛbl̩/
+tiel	/tɪɛl/
+tieta	/tɪɛta/
+tigeda	/tigeda/
+tii	/tiː/
+tiich	/tiːtʃ/
+tiif	/tiːf/
+tiit	/tiːt/
+tingk	/tiŋk/
+tingz	/tiŋz/
+tiori	/tioɹi/
+tix	/tɪks/
+tod	/tod/
+todi	/todi/
+tong	/tɔŋ/
+Torki	/Toɹki/
+torkl	/toɹkl̩/
+torm	/toɹm/
+tormal	/toɹmal/
+tornin paint	/toɹnin paɪnt/
+torpmtaim	/toɹpm̩taɪm̩/
+toti	/totɪ/
+toun	/tɔun/
+touzn	/tɔuzn̩/
+towa	/towa/
+towil	/towil/
+tros	/tɹos/
+tu	/tu/
+tumatis	/tumatis/
+tuo	/tuɔ/
+tuofuu	/tuɔfuː/
+tuon	/tuɔn/
+tuonaliti	/tuɔnaliti/
+tuori	/tuɔɹi/
+tuu	/tuː/
+tuul	/tuːl/
+twelb	/twelb/
+twenti	/twenti/
+uman	/uman/
+umoch	/umotʃ/
+unu	/unu/
+uoba	/uɔba/
+uoba taim	/uɔba taɪm/
+uobasior	/uɔbasioɹ/
+Uochi Rayas	/uotʃiɹajas/
+uol	/uɔl/
+uoli	/uɔli/
+uoliip	/huɔliːp/
+uom	/uɔm/
+uon	/uɔn/
+uona	/uɔna/
+uonaship	/uɔnaʃip/
+uonyan	/uoɲan/
+uopm	/uɔpm̩/
+uopm op	/uɔpm̩ op/
+uoshan	/uɔʃan/
+uovn	/uovn̩/
+uu	/uː/
+vais	/vaɪs/
+van	/van/
+varayati	/vaɹajati/
+vejitebl	/vedʒitebl̩/
+vieri	/vɪɛɹi/
+Vietnam	/vɪɛtnam/
+vijan	/vidʒan/
+Vik	/vik/
+viniga	/viniga/
+volkieno	/volkɪɛno/
+vorjan	/voɹdʒan/
+vowil	/vowil/
+vuokal	/vuɔkal/
+vuokalis	/vuɔkalis/
+vuot	/vuɔt/
+wa	/wa/
+wa dehn kaal	/wa dehn kaːl/
+waak	/waːk/
+waal	/waːl/
+waapm	/waːpm̩/
+waar	/waːɹ/
+waata	/waːta/
+wahn	/wã/
+waidpred	/waɪdpɹed/
+wail	/waɪl/
+wails	/waɪls/
+wait	/waɪt/
+wala	/wala/
+wan	/wan/
+wan nex	/wan neks/
+wan wie	/wan wɪɛ/
+wapn-bapn	/wapn̩bapn̩/
+we miin se	/wemiːnse/
+wehn	/wẽ/
+wes	/wes/
+Wes Afrika	/wes afɹika/
+Wesmolan	/wesmolan/
+Westan Yuurop	/wɛstan juːɹop/
+wi	/wi/
+wid	/wid/
+widout	/widɔut/
+widoutn	/widɔutn̩/
+wie	/wɪɛ/
+wiej	/wɪɛdʒ/
+wiil	/wiːl/
+wod	/wod/
+wod-a-mout	/wodamɔut/
+wok	/wok/
+wok fuos	/wok fuɔs/
+woka	/woka/
+wol	/wol/
+worom	/woɹom/
+wot	/wot/
+wotlis	/wotlis/
+wud	/wud/
+wuol	/wuɔl/
+ya	/ja/
+yaad	/jaːd/
+yai	/jaɪ/
+yam	/jam/
+yampi	/jampi/
+yaso	/jaso/
+yaxep	/jaksep/
+yeside	/jeside/
+yong	/joŋ/
+yu	/ju/
+yumaniti	/jumaniti/
+Yunaitid Kindom	/junaɪtid kindom/
+Yunaitid Stiet	/junaɪtid stɪɛt/
+yunivorsiti	/junivoɹsiti/
+Yuu	/juː/
+Yuukrien	/juːkɹɪɛn/
+yuuman	/juːman/
+Yuuna	/yuːna/
+yuuniiknis	/juːniːknis/
+yuunyan	/juːɲan/
+Yuurop	/juːɹop/
+yuus	/juːs/
+yuusful	/juːsful/
+yuusij	/juːsidʒ/
+yuut	/juːt/
+yuuz	/juːz/
+zela	/zela/
+zuu	/zuː/
