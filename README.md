@@ -33,7 +33,7 @@ The raw data in this repository is provided as a series of text files with each 
 
     [ENTRY][TAB][IPA]
 
-This file format is simple, lightweight, human- and machine-readable, and is also easily convertible to other common formats. Several of those formats (e.g. JSON, XML, CSV) are provided as downloads in the [Releases](https://github.com/dohliam/ipa-dict/releases) section.
+This file format is simple, lightweight, human- and machine-readable, and is also easily convertible to other common formats. Several of those formats (e.g. JSON, XML, CSV) are provided as downloads in the [Releases](https://github.com/open-dict-data/ipa-dict/releases) section.
 
 ### JSON
 
