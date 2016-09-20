@@ -70,18 +70,37 @@ There are comma-separated files available for use with spreadsheet programs and 
 
 There is also a concurrent project to convert the data into DSL format dictionary files for use with dictionary software such as ABBY Lingvo or Goldendict.
 
+There is also a _homonyms_ package containing all homonyms sorted by IPA reading for each language. Homonym lists are available for French, Japanese, Norwegian, Swedish, Cantonese, and Mandarin. The lists can be downloaded from the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0).
+
 If there is another format not listed here that would be useful to you, please feel free to open an issue or PR to add it.
+
+## Languages
+
+IPA data is currently available for the following languages:
+
+Language | Code
+-------- | ----
+Cantonese | yue
+Esperanto | eo
+French | fr
+Jamaican Creole | jam
+Japanese | ja
+Malay | ma
+Mandarin | zh
+Norwegian Bokmål | nb
+Swahili | sw
+Swedish | sv
 
 ## Applications
 
-This project provides an accessible source for IPA pronunciation information that other dictionary projects (e.g. Wiktionary) could draw on rather than manually adding pronunciations to each entry.
+This project provides an accessible source for IPA pronunciation information that other dictionary projects (e.g. Wiktionary) and electronic dictionaries can draw on rather than manually adding pronunciations for each entry.
 
 Apart from this, there are several ways that this data could (and has been applied):
 
 * Providing pronunciation information for a series of learner's grammars currently being compiled by the Open Grammar Project
 * Cross-language comparison of common phonemes
 * Intra-language analysis of phoneme patterns
-* Automatic generation of homonym lists (a selection of these is now available for download in the releases section)
+* Automatic generation of homonym lists (a selection of these is now available for download in the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0))
 
 ## Notes
 
@@ -91,6 +110,16 @@ Apart from this, there are several ways that this data could (and has been appli
 * The emphasis is on the correspondence between orthography and phonemic pronunciation, so separate entries are given for homonyms that are written or spelled differently.
 * Where multiple possible pronunciations exist for a given entry, they should all be listed (separated by commas), even if they have different senses. For example, the word _est_ has two different pronunciations in French (/ɛst/ and /ɛ/), depending on whether it is a noun or an (unrelated) verb, so the entry for _est_ lists both of these pronunciations.
 * Conversely, words with different orthographies are considered separate entries, even if they have the same pronunciation. This is because the lists are primarily meant to provide possible pronunciations for unique spellings rather than dictionary information for the possible spellings of unique words.
+
+## Credits
+
+* [Aspell](http://aspell.net/) for reference wordlists
+* [Folkets lexikon](http://folkets-lexikon.csc.kth.se/folkets/) for Swedish pronunciation data
+* [Edict](http://www.edrdg.org/jmdict/edict.html) for Japanese pronunciation data
+* _A Learner's Grammar of Jamaican_ from the Open Grammar Project for Jamaican Creole pronunciation data
+* [Unihan](http://www.unicode.org/charts/unihan.html) for Chinese character pronunciation data
+* [KFCD Pinyin](https://github.com/kfcd/pinyin) for Mandarin IPA data
+* [KFCD Pingyam](https://github.com/kfcd/pingyam) for Cantonese IPA data
 
 ## License
 
