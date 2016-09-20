@@ -102,6 +102,10 @@ Apart from this, there are several ways that this data could (and has been appli
 * Intra-language analysis of phoneme patterns
 * Automatic generation of homonym lists (a selection of these is now available for download in the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0))
 
+## Demo
+
+You can search the data online on the [IPA Lookup](https://open-dict-data.github.io/ipa-lookup/) page for each language. The website makes use of the [JSON formatted data](#json).
+
 ## Notes
 
 * Pronunciations provided are broadly phonemic, and should represent what one might expect to find in a dictionary or other popular reference work.
