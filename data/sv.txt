@@ -1,8 +1,8 @@
--procentig	/-prʊsɛnːtɪg/
--tonnare	/-tɔnːarɛ/
+-procentig	/prʊsɛnːtɪg/
+-tonnare	/tɔnːarɛ/
 -vänlig	/vɛnːlɪg/
 -väsen	/v'ɛːsɛn/
--öring	/-øːrɪŋ/
+-öring	/øːrɪŋ/
 à	/a/
 a	/ɑː/
 a conto	/ak'ɔnːtʊ/
@@ -514,7 +514,8 @@ anskrämlig	/²'anːskrɛmːlɪg/
 anslag	/²'anːslɑːg/
 ansluta	/²'anːslʉːtɛr/
 anslutning	/²'anːslʉːtnɪŋ/
-anslå	/²'anːsloːr/
+anslå	/²'anːsloː/
+anslår	/²'anːsloːr/
 anspela	/²'anːspeːla/
 anspelar	/²'anːspeːlar/
 anspråk	/²'anːsproːk/
@@ -1043,7 +1044,8 @@ avslog	/²'ɑːvsluːg/
 avsluta	/²'ɑːvslʉːta/
 avslutar	/²'ɑːvslʉːtar/
 avslutning	/²'ɑːvslʉːtnɪŋ/
-avslå	/²'ɑːvsloːr/
+avslå	/²'ɑːvsloː/
+avslår	/²'ɑːvsloːr/
 avslöja	/²'ɑːvslœjːa/
 avslöjar	/²'ɑːvslœjːar/
 avsmak	/²'ɑːvsmɑːk/
@@ -1674,7 +1676,8 @@ besluta	/bɛsl'ʉːta/
 beslutar	/bɛsl'ʉːtar/
 besluten	/bɛsl'ʉːtɛn/
 beslutsam	/bɛsl'ʉːtsam/
-beslå	/bɛsl'oːr/
+beslå	/bɛsl'oː/
+beslår	/bɛsl'oːr/
 besläktad	/bɛsl'ɛkːtad/
 beslöjad	/bɛsl'øːjad/, /bɛsl'œjːad/
 beslöt	/bɛsl'øːt/
@@ -5229,7 +5232,8 @@ föreskrift	/²f'øːrɛskrɪfːt/
 föreskriva	/²f'øːrɛskriːvɛr/
 föreslagit	/²f'øːrɛslɑːgɪt/
 föreslog	/²f'øːrɛsluːg/
-föreslå	/²f'øːrɛsloːr/
+föreslå	/²f'øːrɛsloː/
+föreslår	/²f'øːrɛsloːr/
 förespegla	/²f'øːrɛspeːgla/
 förespeglar	/²f'øːrɛspeːglar/
 förespråka	/²f'øːrɛsproːka/
@@ -5532,7 +5536,8 @@ förslag	/fœʂɭ'ɑːg/
 förslagsvis	/²fœʂɭ'ɑːgsviːs/
 förslitning	/fœʂɭ'iːtnɪŋ/
 förslummas	/fœʂɭ'ɵmːas/
-förslå	/fœʂɭ'oːr/
+förslå	/fœʂɭ'oː/
+förslår	/fœʂɭ'oːr/
 försmak	/²f'øːʂmɑːk/
 försmå	/fœʂm'oːr/
 försmädlig	/fœʂm'ɛːdlɪg/
@@ -9463,7 +9468,8 @@ köpeskilling	/²ɕ'øːpɛɧɪlːɪŋ/
 köping	/²ɕ'øːpɪŋ/
 köpkraft	/²ɕ'øːpkrafːt/
 köpman	/²ɕ'øːpmanː/
-köpslå	/²ɕ'øːpsloːr/
+köpslå	/²ɕ'øːpsloː/
+köpslår	/²ɕ'øːpsloːr/
 kör	/køːr/
 köra	/ɕøːr/
 köra över	/ɕøːr'øːvɛr/
@@ -9537,7 +9543,8 @@ lamell	/lam'ɛlː/
 lamm	/lamː/
 lammkött	/²l'amːɕœtː/
 lampa	/²l'amːpa/
-lamslå	/²l'amːsloːr/
+lamslå	/²l'amːsloː/
+lamslår	/²l'amːsloːr/
 land	/lanːd/
 landa	/²l'anːda/
 landar	/²l'anːdar/
@@ -14221,7 +14228,8 @@ rådig	/²r'oːdɪg/
 rådjur	/²r'oːjʉːr/
 rådman	/²r'oːdmanː/
 rådslag	/²r'oːdslɑːg/
-rådslå	/²r'oːdsloːr/
+rådslå	/²r'oːdsloː/
+rådslår	/²r'oːdsloːr/
 rådvill	/²r'oːdvɪlː/
 råg	/roːg/
 rågad	/²r'oːgad/
@@ -15763,7 +15771,8 @@ sluttning	/²sl'ɵtːnɪŋ/
 slutvinjett	/²sl'ʉːtvɪnjɛtː/
 slyna	/²sl'yːna/
 slyngel	/²sl'ʏŋːɛl/
-slå	/sloːr/
+slå	/sloː/
+slår	/sloːr/
 slå fast	/sloːrf'asːt/
 slå igen	/sloːrɪj'ɛnː/
 slå igenom	/sloːrɪj'eːnɔm/
