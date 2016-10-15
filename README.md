@@ -83,6 +83,7 @@ Language | Code
 Cantonese | yue
 Esperanto | eo
 French | fr
+German | de
 Jamaican Creole | jam
 Japanese | ja
 Malay | ma
