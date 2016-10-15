@@ -125,6 +125,7 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 * [Unihan](http://www.unicode.org/charts/unihan.html) for Chinese character pronunciation data
 * [KFCD Pinyin](https://github.com/kfcd/pinyin) for Mandarin IPA data
 * [KFCD Pingyam](https://github.com/kfcd/pingyam) for Cantonese IPA data
+* Experimental IPA for German has been generated using [germanipa](https://github.com/kdelaney/germanipa) by @kdelaney. Feedback and corrections appreciated!
 
 ## License
 
