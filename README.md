@@ -126,6 +126,7 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 * [KFCD Pinyin](https://github.com/kfcd/pinyin) for Mandarin IPA data
 * [KFCD Pingyam](https://github.com/kfcd/pingyam) for Cantonese IPA data
 * Experimental IPA for German has been generated using [germanipa](https://github.com/kdelaney/germanipa) by @kdelaney. Feedback and corrections appreciated!
+* Experimental IPA for Spanish (`es_ES` and `es_MX`) has been generated using Timur Baytukalov's [spanish-pronunciation-rules](https://github.com/easypronunciation/spanish-pronunciation-rules-php) PHP script. Additions, corrections, and expansion of the dictionaries to other Spanish locales are welcome!
 
 ## License
 
