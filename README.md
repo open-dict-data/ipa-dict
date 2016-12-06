@@ -80,21 +80,21 @@ IPA data is currently available for the following languages:
 
 Language | Code
 -------- | ----
-Cantonese | yue
+German | de
 English (General American) | en_US
 Esperanto | eo
+Spanish (Spain) | es_ES
+Spanish (Mexico) | es_MX
 Finnish | fi
 French | fr
-German | de
-Jamaican Creole | jam
 Japanese | ja
+Jamaican Creole | jam
 Malay | ma
-Mandarin | zh
 Norwegian Bokmål | nb
-Spanish (Mexico) | es_MX
-Spanish (Spain) | es_ES
-Swahili | sw
 Swedish | sv
+Swahili | sw
+Cantonese | yue
+Mandarin | zh
 
 ## Applications
 
