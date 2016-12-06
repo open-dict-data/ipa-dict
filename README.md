@@ -129,6 +129,7 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 * [Unihan](http://www.unicode.org/charts/unihan.html) for Chinese character pronunciation data
 * [KFCD Pinyin](https://github.com/kfcd/pinyin) for Mandarin IPA data
 * [KFCD Pingyam](https://github.com/kfcd/pingyam) for Cantonese IPA data
+* Multisyllabic pronunciation data for Cantonese from [開放粵語詞典](http://kaifangcidian.com/han/yue)
 * [prosodic1b](https://github.com/jsfalk/prosodic1b) by @jsfalk for Finnish IPA data (Finnish wordlist from [The Institute for the Languages of Finland](http://kaino.kotus.fi/sanat/nykysuomi/))
 * English (US) IPA data based on modified version of [cmudict-ipa](https://github.com/lingz/cmudict-ipa) by @lingz, with addition of stress markers made possible by [syllabify](https://github.com/kylebgorman/syllabify) by @kylebgorman
 * Experimental IPA for German has been generated using [germanipa](https://github.com/kdelaney/germanipa) by @kdelaney. Feedback and corrections appreciated!
