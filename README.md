@@ -68,7 +68,7 @@ There are comma-separated files available for use with spreadsheet programs and 
 
 ### Other formats
 
-There is also a concurrent project to convert the data into DSL format dictionary files for use with dictionary software such as ABBY Lingvo or Goldendict.
+The [ipa-dict-dsl](https://github.com/open-dsl-dict/ipa-dict-dsl) project has converted all of the IPA data into DSL format dictionary files for use with dictionary software such as [ABBY Lingvo](https://www.lingvolive.com/en-us), [GoldenDict](http://goldendict.org/), or [gdcl](https://github.com/dohliam/gdcl). Pre-compiled and compressed dictionary files for individual languages can be downloaded from the project [releases page](https://github.com/open-dsl-dict/ipa-dict-dsl/releases).
 
 There is also a _homonyms_ package containing all homonyms sorted by IPA reading for each language. Homonym lists are available for French, Japanese, Norwegian, Swedish, Cantonese, and Mandarin. The lists can be downloaded from the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0).
 
