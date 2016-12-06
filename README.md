@@ -81,7 +81,7 @@ IPA data is currently available for the following languages:
 Language | Code
 -------- | ----
 Cantonese | yue
-English | en_US
+English (General American) | en_US
 Esperanto | eo
 Finnish | fi
 French | fr
@@ -91,6 +91,8 @@ Japanese | ja
 Malay | ma
 Mandarin | zh
 Norwegian Bokmål | nb
+Spanish (Mexico) | es_MX
+Spanish (Spain) | es_ES
 Swahili | sw
 Swedish | sv
 
