@@ -80,6 +80,7 @@ IPA data is currently available for the following languages:
 
 Language | Code
 -------- | ----
+Arabic (Modern Standard) | ar
 German | de
 English (General American) | en_US
 Esperanto | eo
@@ -89,8 +90,9 @@ Finnish | fi
 French | fr
 Japanese | ja
 Jamaican Creole | jam
-Malay | ma
+Malay (Malaysian and Indonesian) | ma
 Norwegian Bokmål | nb
+Persian | fa
 Swedish | sv
 Swahili | sw
 Cantonese | yue
