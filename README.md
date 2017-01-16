@@ -102,7 +102,19 @@ Mandarin | zh
 
 This project provides an accessible source for IPA pronunciation information that other dictionary projects (e.g. Wiktionary) and electronic dictionaries can draw on rather than manually adding pronunciations for each entry.
 
-Apart from this, there are several ways that this data could (and has been applied):
+An [updated collection of dictionaries](https://github.com/open-dsl-dict/ipa-dict-dsl) in ABBYY Lingvo DSL format is maintained by the [open-dsl-dict](https://github.com/open-dsl-dict) project for use in dictionary programs such as [Goldendict](https://github.com/goldendict/goldendict) and [gdcl](https://github.com/dohliam/gdcl):
+
+![ipa](https://cloud.githubusercontent.com/assets/9295750/20906588/af21d25c-bafd-11e6-9832-0c70138142b7.gif)
+
+You can download the binary dictionary files [here](https://github.com/open-dsl-dict/ipa-dict-dsl/releases).
+
+The [IPA Lookup](https://open-dict-data.github.io/ipa-lookup/) project provides a web interface for searching the dictionaries in different languages:
+
+![IPA Lookup screenshots](https://cloud.githubusercontent.com/assets/9295750/21977686/0aa0b7f2-db8c-11e6-88b8-cdec8305ef5e.gif)
+
+Links to all the available languages can be found on the [project homepage](https://open-dict-data.github.io/ipa-lookup/).
+
+Apart from the above, there are several other ways that this data could (and has been applied):
 
 * Providing pronunciation information for a series of learner's grammars currently being compiled by the Open Grammar Project
 * Cross-language comparison of common phonemes
