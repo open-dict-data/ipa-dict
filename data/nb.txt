@@ -540,7 +540,7 @@ behageligere	/bəˈhɑːgəlɪɾə/
 behageligst	/bəˈhɑːgəlɪkst/
 behageligste	/bəˈhɑːgəlɪkstə/
 behandle	/bəˈhɑnlə/
-beherska	/bəˈhæʂkət/
+beherska	/bəˈhæʂkɑ/
 beherske	/bəˈhæʂkə/
 behersket	/bəˈhæʂkət/
 beholde	/bəˈhɔlə/
@@ -560,6 +560,7 @@ beite	/ˈbæɪtə/
 bekjempe	/bəˈçɛmpə/
 bekjenne	/bəˈçɛnə/
 bekjent	/bəˈçɛnt/
+bekjente	/bɛˈçɛntə/
 bekjentskap	/bɛˈçɛntskɑːp/
 bekken	/ˈbɛkn̩/
 bekkener	/ˈbɛknəɾ/
@@ -591,6 +592,7 @@ belgisk	/ˈbɛlgɪsk/
 belje	/ˈbæljə/
 belme	/ˈbæɭmə/
 belte	/bɛltə/
+beltet	/bɛltə/
 belyse	/bəˈlyːsə/
 belære	/bəˈlæːɾə/
 belønne	/bəˈlœnə/
@@ -657,6 +659,7 @@ bestandige	/bəˈstɑnɪə/
 bestandigere	/bəˈstɑnɪɾə/
 bestandigst	/bəˈstɑnɪkst/
 bestandigste	/bəˈstɑnɪkstə/
+beste	/ˈbɛstə/
 bestefar	/ˈbɛstəfɑːɾ/
 bestemme	/bəˈstɛmə/
 bestemor	/ˈbɛstəmuːɾ/
@@ -867,6 +870,7 @@ blåbær	/ˈblɔbæɾ/
 blåfrossen	/ˈbloːfɾɔsən/
 blåne	/ˈbloːnə/
 blåse	/ˈbloːsə/
+blåser	/ˈbloːsəɾ/
 blåveis	/ˈbloːʋæɪs/
 blåøyd	/ˈbloːœjd/
 bo	/buː/
@@ -1128,7 +1132,7 @@ dato	/ˈdɑːtu/
 datter	/ˈdɑtəɾ/
 David	/ˈdɑːʋɪd/
 de	/diː/
-de beste	/dɪbɛstə/
+de beste	/dɪˈbɛstə/
 debattere	/dəbɑˈteːɾə/
 debutere	/dəbʉˈteːɾə/
 dedisere	/dədɪˈseːɾə/
@@ -1178,10 +1182,11 @@ demontere	/ˈdeːmʊnteːɾə/
 dempe	/ˈdɛmpə/
 dempet	/dɛmpət/
 demre	/ˈdɛmɾə/
-den bekjente	/bɛˈçɛnt/
-den beste	/dənbɛstə/
+den	/dɛn/
+den bekjente	/dɛnbɛˈçɛntə/
+den beste	/dɛnˈbɛstə/
 den gangen	/ˈdɛngɑŋən/
-den skadede	/dɛnskɑdədə/
+den skadede	/dɛnˈskɑdədə/
 denge	/ˈdɛŋə/
 denn	/dɛn/
 denne	/ˈdɛnə/
@@ -1210,7 +1215,8 @@ dessuten	/ˈdɛsʉːtən/
 dessverre	/dɛsˈʋæɾə/
 destruere	/dəstɾʉˈeːɾə/
 destruktiv	/ˈdɛstɾʉktiːʋ/
-det beste	/dɛbɛstə/
+det	/dɛ/
+det beste	/dɛˈbɛstə/
 det er	/dɛæːɾ/
 det finnes	/dɛfɪnəs/
 det fins	/dɛfɪns/
@@ -1589,7 +1595,7 @@ empfehlen	/ɛmˈpfeːlən/
 empirisk	/ɛmˈpiːɾɪsk/
 én	/ˈeːn/
 en	/eːn/
-en gang	/ɛngɑŋ/
+en gang	/ɛnˈgɑŋ/
 en gang til	/ɛnˈgɑŋtɪl/
 enda	/ɛnɑ/
 ende	/ˈɛnə/
@@ -1681,6 +1687,7 @@ episode	/ɛpɪsuːdə/
 eple	/ˈɛplə/
 eplekjekk	/ˈɛpləçɛk/
 epoke	/ɛpuːkə/
+er	/æːɾ/
 erfare	/æɾˈfɑːɾə/
 erfaren	/æɾˈfɑːɾən/
 erfaring	/æɾˈfɑːɾɪŋ/
@@ -2683,6 +2690,7 @@ gane	/ˈgɑːnə/
 gang	/gɑŋ/
 gangbru	/gɑŋbɾʉː/
 gange	/ˈgɑŋə/
+gangen	/ˈgɑŋən/
 ganske	/ˈgɑnskə/
 gape	/ˈgɑːpə/
 garantere	/gɑɾɑnˈteːɾə/
@@ -2715,6 +2723,8 @@ geistlige	/ˈgæɪstlɪə/
 geistligere	/ˈgæɪstlɪɾə/
 geistligst	/ˈgæɪstlɪkst/
 geistligste	/ˈgæɪstlɪkstə/
+geit	/jæɪt/
+geita	/jæɪtɑ/
 geitost	/jæɪtʊst/
 gelatin	/ʂɛlɑˈtiːn/
 gelb	/gɛlp/
@@ -2726,6 +2736,7 @@ genetisk	/gəˈneːtɪsk/
 Genève	/ʂɛˈneːʋ/
 genial	/gənɪˈɑːl/
 genser	/ˈgɛnsəɾ/
+genseren	/ˈgɛnsæɳ/
 genug	/gəˈnuːk/
 genuin	/gənʉˈiːn/
 geografisk	/gəʊˈgɾɑːfɪsk/
@@ -2832,6 +2843,7 @@ gjær	/jæːɾ/
 gjære	/ˈjæːɾə/
 gjø	/jøː/
 gjødsle	/ˈjœtslə/
+gjør	/jøːɾ/
 gjøre	/jøːɾə/
 gjøre rent	/jøːɾəˈɾɛnt/
 gjøre vondt	/jøːɾəˈʋʊnt/
@@ -2967,6 +2979,8 @@ grimme	/ˈgɾɪmə/
 grine	/ˈgɾiːnə/
 grinete	/ˈgɾiːnətə/
 gripende	/ˈgɾiːpənə/
+gris	/gɾiːs/
+grisen	/ˈgɾiːsn̩/
 grisete	/ˈgɾiːsətə/
 grisk	/gɾɪsk/
 gro	/gɾuː/
@@ -3132,12 +3146,13 @@ hannkjønn	/ˈhɑnçœn/
 hans	/hɑns/
 hanske	/ˈhɑnskə/
 hanskes	/ˈhɑnskəs/
+har	/hɑːɾ/
 Harald	/ˈhɑɾɑl/
 hard	/hɑːɾ/
-hardbarka	/ˈhɑːɾbɑɾkət/
+hardbarka	/ˈhɑːɾbɑɾkɑ/
 hardbarket	/ˈhɑːɾbɑɾkət/
 hardhendt	/ˈhɑːɾhɛnt/
-hardnakka	/ˈhɑːɳɑkət/
+hardnakka	/ˈhɑːɳɑkɑ/
 hardnakket	/ˈhɑːɳɑkət/
 harke	/ˈhɑɾkə/
 harm	/hɑɾm/
@@ -3296,6 +3311,7 @@ hes	/heːs/
 heseblesende	/ˈheːsəbleːsənə/
 hesje	/ˈhɛʂə/
 hest	/hɛst/
+hesten	/hɛstən/
 hestesko	/ˈhɛstəskuː/
 het	/heːt/
 hete	/ˈheːtə/
@@ -3592,7 +3608,7 @@ hårfin	/ˈhoːɾfiːn/
 hårgele	/hoːʂɛleː/
 hårreisende	/ˈhoːɾæɪsənə/
 håve	/ˈhoːʋə/
-i	/i/
+i	/ɪ/
 i blant	/ɪˈblɑnt/
 i dag	/ɪˈdɑːg/
 i det minste	/ɪdɛmɪnstə/
@@ -3950,7 +3966,8 @@ kaldblodigere	/ˈkɑlbluːdɪɾə/
 kaldblodigst	/ˈkɑlbluːdɪkst/
 kaldblodigste	/ˈkɑlbluːdɪkstə/
 kaldsvette	/ˈkɑlsʋɛtə/
-kaldt vann	/kɑltʋɑn/
+kaldt	/kɑlt/
+kaldt vann	/ˈkɑltʋɑn/
 kaliber	/kɑˈliːbɾ/
 kalibrere	/kɑlɪˈbɾeːɾə/
 kalk	/kɑlk/, /kɑɽk/
@@ -4151,6 +4168,7 @@ klamme	/ˈklɑmə/
 klamre	/ˈklɑmɾə/
 klandre	/ˈklɑndɾə/
 klappe	/ˈklɑpə/
+klapper	/ˈklɑpəɾ/
 klapre	/ˈklɑpɾə/
 klar	/klɑːɾ/
 klare	/ˈklɑːɾə/
@@ -4413,6 +4431,7 @@ kors	/kɔʂ/
 korsfeste	/kɔʂˈfɛstə/
 korsgang	/kɔʂgɑŋ/
 kort	/kɔʈ/
+korte	/ˈkɔʈə/
 korterma	/ˈkɔʈæɾmət/
 kortermet	/ˈkɔʈæɾmət/
 kortfatta	/ˈkɔʈfɑtət/
@@ -5042,6 +5061,8 @@ lystigere	/ˈlʏstɪɾə/
 lystigst	/ˈlʏstɪkst/
 lystigste	/ˈlʏstɪkstə/
 lystre	/ˈlʏstɾə/
+lytte	/ˈlʏtə/
+lytter	/ˈlʏtəɾ/
 lyve	/ˈlyːʋə/
 lærd	/læɖ/
 lære	/ˈlæːɾə/
@@ -5349,7 +5370,7 @@ misfornøyd	/ˈmɪsfɔɳœjd/
 misforstå	/ˈmɪsfɔʂtoː/
 mishandle	/ˈmɪshɑnlə/
 mislike	/ˈmɪsliːkə/
-mislykka	/ˈmɪslʏkət/
+mislykka	/ˈmɪslʏkɑ/
 mislykkes	/ˈmɪslʏkəs/
 mislykket	/ˈmɪslʏkət/
 miste	/ˈmɪstə/
@@ -5670,6 +5691,7 @@ nydelige	/ˈnyːdəlɪə/
 nydeligere	/ˈnyːdəlɪɾə/
 nydeligst	/ˈnyːdəlɪkst/
 nydeligste	/ˈnyːdəlɪkstə/
+nye	/nyːə/
 nyhet	/ˈnyːheːt/
 nylig	/ˈnyːlɪ/
 nylige	/ˈnyːlɪə/
@@ -5993,6 +6015,7 @@ overskuelige	/ˈoːʋəʂkʉːəlɪə/
 overskueligere	/ˈoːʋəʂkʉːəlɪɾə/
 overskueligst	/ˈoːʋəʂkʉːəlɪkst/
 overskueligste	/ˈoːʋəʂkʉːəlɪkstə/
+overskyet	/ˈoːʋəʂyːət/
 overstige	/ˈoːʋəʂtiːgə/
 overta	/ˈoːʋəʈɑː/
 overtale	/ˈoːʋəʈɑːlə/
@@ -6485,6 +6508,7 @@ regjere	/ɾəˈjeːɾə/
 regjering	/ɾɛˈjeːɾɪŋ/
 regn	/ɾæɪn/
 regne	/ˈɾæɪnə/
+regne	/ˈɾæɪnəɾ/
 regnfrakk	/ɾæɪnfɾɑk/
 regnfullt	/ɾæɪnfʉlt/
 regning	/ɾæɪnɪŋ/
@@ -6638,6 +6662,7 @@ romsligere	/ˈɾʊmʂɭɪɾə/
 romsligst	/ˈɾʊmʂɭɪkst/
 romsligste	/ˈɾʊmʂɭɪkstə/
 rope	/ˈɾuːpə/
+roper	/ˈɾuːpəɾ/
 ror	/ɾuːɾ/
 ros	/ɾuːs/
 rosa	/ˈɾuːsɑ/
@@ -7023,6 +7048,7 @@ sjøsette	/ˈʂøːsɛtə/
 sjøsyk	/ʂøːsyːk/
 sjåfør	/ʂɔˈføːɾ/
 skade	/ˈskɑːdə/
+skadede	/ˈskɑdədə/
 skadelig	/ˈskɑːdəlɪ/
 skadelige	/ˈskɑːdəlɪə/
 skadeligere	/ˈskɑːdəlɪɾə/
@@ -7061,7 +7087,7 @@ skift	/ʂɪftə/
 skifte ut	/ʂkɪftəʉt/
 skiftende	/ʂɪftənə/
 skiinstruktør	/ʂɪɪnstɾʉktœɾ/
-skikka	/ʂɪkət/
+skikka	/ʂɪkɑ/
 skikke	/ˈʂɪkə/
 skikkelig	/ˈʂɪkəlɪ/
 skikkelige	/ˈʂɪkəlɪə/
@@ -7142,6 +7168,7 @@ skjøtte	/ˈʂœtə/
 skli	/skɭiː/
 sko	/skuː/
 skobutikk	/ˈskuːbʉtɪk/
+skoene	/ˈskuːnə/
 skog	/skuːg/
 skogsarbeid	/ˈskʊksɑɾbæɪ/
 skokrem	/ˈskuːkɾeːm/
@@ -7425,6 +7452,7 @@ sofaen	/ˈsʊfɑn/
 sofaene	/ˈsʊfɑnə/
 sogne	/ˈsɔŋnə/
 sokk	/sɔk/
+sokkene	/ˈsɔknə/, /ˈsɔkənə/
 sol	/suːl/
 sola	/ˈsuːɽɑ/
 solarium	/sʊˈlɑːɾɪʉm/
@@ -7750,6 +7778,7 @@ strategisk	/stɾɑˈteːgɪsk/
 streife	/ˈstɾæɪfə/
 streike	/ˈstɾæɪkə/
 strekke	/ˈstɾɛkə/
+strekker	/ˈstɾɛkəɾ/
 strender	/ˈstɾɛnəɾ/
 streng	/stɾɛŋ/
 streve	/ˈstɾeːʋə/
@@ -7878,6 +7907,7 @@ svangerskap	/ˈsʋɑŋəʂkɑːp/
 svar	/sʋɑːɾ/
 svare	/ˈsʋɑːɾə/
 svare på	/sʋɑːɾəpɔ/
+svarer	/ˈsʋɑːɾəɾ/
 svart	/sʋɑʈ/
 svartne	/ˈsʋɑʈnə/
 sveipe	/ˈsʋæɪpə/
@@ -7984,6 +8014,7 @@ syndigste	/ˈsʏnɪkstə/
 syne	/syːn/
 synes	/ˈsyːnəs/
 synge	/ˈsʏŋə/
+synger	/ˈsʏŋəɾ/
 synke	/ˈsʏŋkə/
 synkron	/sʏŋˈkɾuːn/
 synkronisere	/sʏŋkɾʊnɪˈseːɾə/
@@ -8403,6 +8434,7 @@ topp	/tɔp/
 toppe	/ˈtɔpə/
 tordenvær	/ˈtʉɖn̩ʋæːɾ/
 tordne	/ˈtʊɖnə/
+tordner	/ˈtʊɖnəɾ/
 tore	/ˈtuːɾə/
 torg	/tɔɾg/
 tornete	/ˈtuːɳətə/
@@ -8802,7 +8834,7 @@ ufordragelige	/ʉfɔˈɖɾɑːgəlɪə/
 ufordrageligere	/ʉfɔˈɖɾɑːgəlɪɾə/
 ufordrageligst	/ʉfɔˈɖɾɑːgəlɪkst/
 ufordrageligste	/ʉfɔˈɖɾɑːgəlɪkstə/
-uforfalska	/ˈʉːfɔɾfɑlskət/
+uforfalska	/ˈʉːfɔɾfɑlskɑ/
 uforfalsket	/ˈʉːfɔɾfɑlskət/
 uforglemmelig	/ʉfɔɾˈglɛməlɪ/
 uforglemmelige	/ʉfɔɾˈglɛməlɪə/
@@ -9712,7 +9744,7 @@ velge ut	/ʋɛlgəˈʉːt/
 velkjent	/ˈʋɛlçɛnt/
 velkledd	/ˈʋɛlklɛd/
 velkommen	/ʋɛlˈkɔmən/
-vellykka	/ˈʋɛlʏkət/
+vellykka	/ˈʋɛlʏkɑ/
 vellykket	/ˈʋɛlʏkət/
 veloppdragen	/ˈʋɛlɔpdɾɑːgən/
 veloverveid	/ˈʋɛloːʋəɾʋæɪd/
@@ -9873,6 +9905,7 @@ vindusvisker	/ʋɪnʉsʋɪskəɾ/
 vinge	/ˈʋɪŋə/
 vinglete	/ˈʋɪŋlətə/
 vinke	/ˈʋɪŋkə/
+vinker	/ˈʋɪŋkəɾ/
 vinne	/ˈʋɪnə/
 vinter	/ˈʋɪntəɾ/
 vinterdekk	/ʋɪntəɖɛk/
