@@ -14,7 +14,9 @@ aaf	/aːf/
 Aafwe Chrii	/aːfwetʃɹiː/
 aagan	/aːgan/
 aaganizieshan	/aːganizɪɛʃan/
+aaganizm	/aːganizm̩/
 Aagas	/aːgas/
+aagiment	/aːgiment/
 Aajentiina	/aːdʒentiːna/
 aakid	/aːkid/
 aal	/aːl/
@@ -30,14 +32,15 @@ aat	/aːt/
 aata	/aːta/
 aatagrafi	/aːtagɹafi/
 aatiek	/aːtɪɛk/
+aatis	/aːtis/
 aawez	/aːwez/
-aax	/aːks/
 aazwiez	/aːzwɪɛz/
 ab	/ab/
 abee	/abeː/
 abraad	/abɹaːd/
 achrakshan	/atʃɹakʃan/
 achribyut	/atʃɹibjut/
+ada	/ada/
 adaels	/adaels/
 adaels ieria	/adaels ɪɛɹia/
 adawaiz	/adawaɪz/
@@ -45,6 +48,7 @@ adminischrietiv	/administʃɹɪɛtiv/
 advokiet	/advokɪɛt/
 Afrika	/afɹika/
 afta	/afta/
+agen	/agen/
 agrikolcha	/agɹikoltʃa/
 agrikolcharal	/agɹikoltʃaɹal/
 agyu	/aɟu/
@@ -61,6 +65,7 @@ aidie	/aɪdie/
 aigl	/aɪgl̩/
 aijrosfier	/aɪdʒɹosfɪɛɹ/
 ail	/aɪl/
+ailan	/aɪlan/
 ailant	/aɪlant/
 Airilan	/aɪɹilan/
 airish	/aɪɹiʃ/
@@ -69,6 +74,7 @@ ais	/aɪs/
 aiskriim	/aɪskɹiːm/
 aisoliet	/aɪsolɪɛt/
 ait	/aɪt/
+aiyan	/aɪjan/
 Aizak	/aɪzak/
 ajres	/adʒɹes/
 aki	/aki/
@@ -88,6 +94,7 @@ Aligzanda	/aligzanda/
 aliv	/aliv/
 amfisbiinyan	/amfisbiːɲan/
 Amtan	/amtan/
+an	/an/
 ana	/ana/
 anarebl	/anaɹebl̩/
 anda	/anda/
@@ -97,18 +104,21 @@ Anju	/andʒu/
 anlain	/anlaɪn/
 anles	/anles/
 anmigl	/anmigl̩/
+ansa	/ansa/
 ansofistikietid	/ansofistikɪɛtid/
 Antiiga ahn Baabyuuda	/antiːga ã baːbjuːda/
 Anuova	/anuova/
 Anuova Parish	/anuova paɹiʃ/
 apaat	/apaːt/
 apaint	/apaɪnt/
+api	/api/
 apier	/apɪɛɹ/
 apl	/apl̩/
 aplai	/aplaɪ/
 apm	/apm̩/
 aprishiet	/apɹiʃɪɛt/
 apruoch	/apɹuɔtʃ/
+apruuv	/apɹuːv/
 ar	/aɹ/
 ar els	/aɹels/
 aredi	/aɹedi/
@@ -146,12 +156,14 @@ bad	/bad/
 bada	/bada/
 badarieshan	/badaɹɪɛʃan/
 badi	/badi/
+badman	/badman/
 bai	/baɪ/
 baik	/baɪk/
 bailoji	/baɪlodʒi/
 bait	/baɪt/
 baka bush	/baka buʃ/
 bakbuon	/bakbuɔn/
+bakl	/bakl̩/
 bami	/bamɪ/
 ban	/ban/
 banaana	/banaːna/
@@ -167,13 +179,16 @@ bayosfier	/bajosfɪɛɹ/
 beg yu	/beg ju/
 bekaa	/bekaː/
 bel	/bel/
+beli	/beli/
 ben	/ben/
 bex	/beks/
 bie	/bɪɛ/
 biebi	/bɪɛbi/
 bied	/bɪɛd/
 biefies	/bɪɛfɪɛs/
+biej	/bɪɛdʒ/
 biek	/bɪɛk/
+bier	/bɪɛɹ/
 bies	/bɪɛs/
 bies pahn	/bɪɛs pã/
 biesik	/bɪɛsik/
@@ -189,6 +204,7 @@ biini	/biːni/
 bikaazn	/bikaːzn̩/
 bil	/bil/
 bil pahn	/bilpã/
+bilang	/bilaŋ/
 biyain	/bijaɪn/
 bizniz	/bizniz/
 blai	/blaɪ/
@@ -199,6 +215,7 @@ blingki	/bliŋki/
 bluu	/bluː/
 bod	/bod/
 bokl	/bokl̩/
+bon	/bon/
 bongjri	/boŋdʒɹi/
 bongx	/boŋks/
 bot	/bot/
@@ -229,6 +246,7 @@ buodn skuul	/buɔdn̩ skuːl/
 buot	/buɔt/
 buut	/buːt/
 bwai	/bwaɪ/
+bwai pikni	/bwaɪ pikni/
 bwail	/bwaɪl/
 byuuti	/bjuːti/
 chaaj	/tʃaːdʒ/
@@ -237,9 +255,10 @@ chaaklit chrii	/tʃaːklit tʃɹiː/
 Chaali	/tʃaːli/
 Chaina	/tʃaɪna/
 chais	/tʃaɪs/
-chakachaka	/tʃakatʃaka/
+chaka-chaka	/tʃakatʃaka/
 chat	/tʃat/
 cheri	/tʃeɹi/
+ches	/tʃes/
 chichi	/tʃitʃi/
 chienj	/tʃɪɛndʒ/
 chiiz	/tʃiːz/
@@ -248,6 +267,7 @@ cho	/tʃo/
 chobl	/tʃobl̩/
 choch	/tʃotʃ/
 chokcha	/tʃoktʃa/
+chos	/tʃos/
 chostii	/tʃostiː/
 chrabl	/tʃɹabl̩/
 chradishan	/tʃɹadiʃan/
@@ -259,14 +279,17 @@ chranzfaam	/tʃɹanzfaːm/
 chranzishan	/tʃɹanziʃan/
 chranzishan piiriad	/tʃɹanziʃan piːɹiad/
 chranznashinal	/tʃɹanznaʃinal/
+chrap	/tʃɹap/
 chrapik	/tʃɹapik/
 chrapikal	/tʃɹapikal/
 chrech	/tʃɹetʃ/
 chrecha	/tʃɹetʃa/
 chrent	/tʃɹent/
+chretn	/tʃɹetn̩/
 chried	/tʃɹɪɛd/
 chrien	/tʃɹɪɛn/
 chrienin	/tʃɹɪɛnin/
+chrienja	/tʃɹɪɛndʒa/
 chriet	/tʃɹɪɛt/
 chrii	/tʃɹiː/
 chriit	/tʃɹiːt/
@@ -280,14 +303,18 @@ chruu	/tʃɹuː/
 chuocho	/tʃuɔtʃo/
 chuochuo	/tʃuɔtʃuɔ/
 chupid	/tʃupid/
+chuu	/tʃuː/
 chuu-chuu	/tʃuːtʃuː/
 chuuhout	/tʃuːhɔut/
 chuun	/tʃuːn/
 chuut	/tʃuːt/
 chuuz	/tʃuːz/
+daa	/daː/
 daag	/daːg/
 daans	/daːns/
+daata	/daːta/
 dailuut	/daɪluːt/
+dainasuor	/daɪnasuɔɹ/
 dairek	/daɪɹek/
 dala	/dala/
 Daminiika	/daminiːka/
@@ -300,9 +327,11 @@ dash awie	/daʃ awɪɛ/
 dashiin	/daʃiːn/
 dat	/dat/
 dat a chuu	/datatʃuː/
+dat-de	/datde/
 dayalek	/dajalek/
 dayaspora	/dajaspoɹa/
 dayatishan	/dajatiʃan/
+de	/de/
 debl	/debl̩/
 ded	/ded/
 definishan	/definiʃan/
@@ -310,6 +339,8 @@ dehn	/dẽ/
 dehn kaali	/dẽ kaːli/
 dekied	/dekɪɛd/
 dem	/dem/
+dem-de	/demde/
+dem-ya	/demja/
 demakrasi	/demakɹasi/
 dep	/dep/
 Derik	/deɹik/
@@ -319,11 +350,12 @@ di	/di/
 di grietis	/digɹɪɛtis/
 di muos	/dimuɔs/
 Di Piiplz Ripoblik a Chaina	/di piːplz ɹipoblik a tʃaɪna/
+di uol a dem	/diwuɔla dem/
 di Wes Indiiz	/diwesindiːz/
-di wuol a dem	/diwuɔla dem/
 dibiet	/dibɪɛt/
 die	/dɪɛ/
 dieli	/dɪɛli/
+Dievid	/dɪɛvid/
 difiit	/difiːt/
 difikolti	/difikolti/
 difrahn	/difɹã/
@@ -334,8 +366,12 @@ diil wid	/diːl wid/
 diklier	/diklɪɛɹ/
 diktieta	/diktɪɛta/
 diktietaship	/diktɪɛtaʃip/
-dimaan	/dimaːn/
+dimokratizieshan	/dimokɹatizɪɛʃan/
 dipaacha	/dipaːtʃa/
+dipen	/dipen/
+dipen pan	/dipen pan/
+dis	/dis/
+dis-ya	/disja/
 disaid	/disaɪd/
 disaya	/disaja/
 dischribyuushan	/distʃɹibjuːʃan/
@@ -358,9 +394,11 @@ dos	/dos/
 doti	/doti/
 doti op	/dotiop/
 dout	/dɔut/
+drop a grong	/dɹopagɹoŋ/
 dukunu	/dukunu/
 duo	/duɔ/
 duohn	/duõ/
+duor	/duɔɹ/
 dwiit	/dwiːt/
 dyuu	/djuː/
 ebi	/ebi/
@@ -368,6 +406,7 @@ ebi die	/ebi dɪɛ/
 ebn	/ebn̩/
 ebri	/ebɹi/
 ebribadi	/ebɹibadi/
+ebriting	/ebɹitiŋ/
 ed a stiet	/edastɪɛt/
 edikieshan	/edikɪɛʃan/
 edita	/edita/
@@ -375,21 +414,26 @@ Edwad	/edwad/
 ef	/ef/
 egvaantij	/egvaːntidʒ/
 egzakli	/egzakli/
+egzamin	/egzamin/
 egzampl	/egzampl̩/
 egzis	/egzis/
 Eliat	/eliat/
 eliment	/eliment/
+elivieta	/elivɪɛta/
 elp	/elp/
 elswe	/elswe/
 en	/en/
 enaji	/enadʒi/
 eni	/eni/
+enibadi	/enibadi/
 eniebl	/enɪɛbl̩/
+enitaim	/enɪtaɪm/
 eniwiez	/eniwɪɛz/
 entapraiz	/entapɹaɪz/
 eritij	/eɹitidʒ/
 esn	/esn̩/
 evidens	/evidens/
+evri	/evɹi/
 exchienj	/ekstʃɪɛndʒ/
 exchriim	/ekstʃɹiːm/
 exepshan	/eksepʃan/
@@ -402,16 +446,21 @@ extablish	/ekstabli/
 extingk	/ekstiŋk/
 faada	/faːda/
 faal	/faːl/
+faal dong	/faːl doŋ/
 faal ina lob	/faːl ina lob/
 faam	/faːm/
+faama	/faːma/
 faamat	/faːmat/
+faar	/faːɹ/
 faas	/faːs/
 faatifikieshan	/faːtifikɪɛʃan/
 fagivnis	/fagivnis/
-faia bon	/faɪa bon/
 faib	/faɪb/
 fain	/faɪn/
 fainal	/faɪnal/
+faiya	/faɪja/
+faiya bon	/faɪja bon/
+faiyaman	/faɪjaman/
 fak	/fak/
 fala	/fala/
 falara	/falaɹa/
@@ -419,6 +468,7 @@ falarin	/falaɹin/
 Falmot	/falmot/
 fambli	/fambli/
 farin	/faɹin/
+farina	/faɹina/
 fasilitiet	/fasilitɪɛt/
 faya	/faja/
 Febiweri	/febiweɹi/
@@ -428,7 +478,9 @@ feminizim	/feminizim/
 fene	/fene/
 fens	/fens/
 fi	/fi/
+fi chuu	/fitʃuː/
 fi mi	/fimi/
+fi paapos	/fipaːpos/
 fi touzn a ier	/fitɔuzn̩ a ɪɛɹ/
 fiemos	/fɪɛmos/
 fies	/fɪɛs/
@@ -438,6 +490,7 @@ fieva	/fieva/
 fif	/fif/
 fiftiin	/fiftiːn/
 figa	/figa/
+figat	/figat/
 fiicha	/fiːtʃa/
 fiil	/fiːl/
 fiimiel	/fiːmɪɛl/
@@ -447,15 +500,22 @@ filasafi	/filasafi/
 Filipiinz	/filipiːnz/
 finaminan	/finaminan/
 finanshal	/finanʃal/
+fingga	/fiŋga/
+fingga-hed	/fiŋgahed/
+fiziolaji	/fizioladʒi/
 fizishan	/fiziʃan/
 fizix	/fiziks/
+flai	/flaɪ/
 flieva	/flɪɛva/
 flim	/flim/
 flod	/flod/
 flowa	/flowa/
+fluor	/fluɔɹ/
+fongkshan	/foŋkʃan/
 foris	/foɹis/
 form	/foɹm/
 fos	/fos/
+foul	/foul/
 fraag	/fɹaːg/
 frahn	/fɹã/
 frai	/fɹaɪ/
@@ -487,12 +547,16 @@ gien	/gɪɛn/
 giet	/gɪɛt/
 ginep	/ginep/
 gluobal	/gluɔbal/
+go a farin	/goafaɹin/
 gobna	/gobna/
 Gobna-Jinaral	/gobnadʒinaɹal/
 goli	/golɪ/
 golibl	/golibl̩/
+gon	/gon/
 govament	/govament/
+graasapa	/gɹaːsapa/
 grampierans	/gɹampɪɛɹans/
+griep	/gɹɪɛp/
 griet	/gɹɪɛt/
 grietis	/gɹɪɛtis/
 grii	/gɹiː/
@@ -504,7 +568,6 @@ Grinieda	/gɹinɪɛda/
 grong	/gɹoŋ/
 gruo	/gɹuɔ/
 gruot	/gɹuɔt/
-guaava	/guaːva/
 gud	/gud/
 gudz	/gudz/
 gunggu	/guŋgu/
@@ -512,22 +575,27 @@ gunggu piiz	/guŋgu piːz/
 guol	/guɔl/
 guot	/guɔt/
 guzu	/guzu/
+gwaava	/gwaːva/
 gwan	/gwan/
+gyaad	/ɟaːd/
 gyaadn	/ɟaːdn̩/
 gyaalik	/ɟaːlik/
-gyadar	/ɟadaɹ/
+gyada	/ɟada/
 gyadarin	/ɟadaɹin/
 gyal	/ɟal/
+gyal pikni	/ɟal pikni/
 gyas	/ɟas/
 haakiek	/haːkɪɛk/
 haalzwie	/haːlzwɪɛ/
 haatagrafi	/haːtagɹafi/
 haatikl	/haːtikl̩/
+haatis	/haːtis/
 habrij	/habɹidʒ/
 habvios	/habvios/
 hada	/hada/
 hadap	/hadap/
 hadvenchara	/hadventʃaɹa/
+hafi	/hafi/
 haid	/haɪd/
 hairish	/haɪɹiʃ/
 hairish pitieta	/haɪɹiʃ pitɪɛta/
@@ -535,6 +603,7 @@ hambrela	/hambɹela/
 hanalisis	/hanalisis/
 hanimal	/hanimal/
 harijin	/haɹidʒin/
+hat	/hat/
 hatityuud	/hatitjuːd/
 haxent	/haksent/
 haxesobl	/haksesobl̩/
@@ -557,6 +626,7 @@ heniting hels	/henitiŋ hels/
 hexpand	/hekspand/
 hexplien	/heksplɪɛn/
 hexpreshan	/hekspɹeʃan/
+hexten	/heksten/
 hextingk	/hekstiŋk/
 hidyam	/hidjam/
 hIeja	/hɪɛdʒa/
@@ -582,9 +652,12 @@ hintanashinal chrabl	/hintanaʃinal tʃɹabl̩/
 hofishal	/hofiʃal/
 hofishal langwij	/hofiʃal laŋwidʒ/
 honggl	/hoŋgl̩/
+honggri	/hoŋgɹi/
 honyan	/hoɲan/
 hopin-en	/hopinen/
 horbanizieshan	/hoɹbanizɪɛʃan/
+hori	/hoɹi/
+hori op	/hoɹi op/
 horli	/hoɹli/
 howa	/howa/
 hox	/hoks/
@@ -608,23 +681,28 @@ ier	/ɪɛɹ/
 ieria	/ɪɛɹia/
 ies	/ɪɛs/
 iet	/ɪɛt/
+ieti	/ɪɛti/
 Ieti	/ɪɛti/
+ietiin	/ɪɛtiːn/
 iez	/iez/
+Iezha	/ɪɛʒa/
 ifainali	/ifaɪnali/
 ifek	/ifek/
-iguaana	/iguaːna/
 igwaana	/igwaːna/
 ihn	/ĩ/
 iibm	/iːbm̩/
 iibn	/iːbn̩/
 iihn	/ĩː/
+Iijip	/iːdʒip/
 iikwal	/iːkwal/
 iip	/iːp/
 iir	/iːɹ/
 iis	/iːs/
 iistan	/iːstan/
 iit	/iːt/
+iit aaf	/iːtaːf/
 iivn	/iːvn̩/
+iivnin	/iːvnin/
 ikanami	/ikanami/
 ikanamik	/ikanamik/
 ikanamix	/ikanamiks/
@@ -663,6 +741,7 @@ inspaya	/inspaya/
 intaikl	/intaɪkl̩/
 intanashinal	/intanaʃinal/
 intanet	/intanet/
+intatiena	/intatɪɛna/
 invalv	/invalv/
 inviejan	/invɪɛdʒan/
 ischri	/istʃɹi/
@@ -695,6 +774,8 @@ jinarasiti	/dʒinaɹasiti/
 jinarieshan	/dʒinaɹɪɛʃan/
 jinja	/dʒindʒa/
 joj	/dʒodʒ/
+jomp	/dʒomp/
+jomp-up	/dʒompop/
 jonjo	/dʒondʒo/
 jork	/dʒoɹk/
 jork chikin	/dʒoɹk tʃikin/
@@ -703,11 +784,13 @@ jork siiznin	/dʒoɹk siːznin/
 jork spais	/dʒoɹk spaɪs/
 Jormani	/joɹmani/
 jornal	/dʒoɹnal/
+jostis	/dʒostis/
 jraa	/dʒɹaː/
 jraadong	/dʒɹaːdoŋ/
 jraaf	/dʒɹaːf/
 jraafut	/dʒɹaːfut/
 jraaz	/dʒɹaːz/
+jragan	/dʒɹagan/
 jrai	/dʒɹaɪ/
 jramatik	/dʒɹamatik/
 jrap	/dʒɹap/
@@ -720,12 +803,11 @@ jringk	/dʒɹiŋk/
 jrog	/dʒɹog/
 jrom	/dʒɹom/
 juk	/dʒuk/
+juki-juki	/dʒukidʒuki/
 Julai	/dʒulaɪ/
 Jumieka	/dʒumɪɛka/
 Jumieka Lieba Paati	/jumɪɛka lɪɛba paːti/
 Jumieka Taak	/dʒumɪɛka taːk/
-jump	/dʒomp/
-jump-up	/dʒompop/
 junjo	/dʒundʒo/
 Juo	/dʒuɔ/
 juok	/dʒuɔk/
@@ -739,11 +821,13 @@ kaal	/kaːl/
 kaan	/kaːn/
 kaanful	/kaːnful/
 Kaanwal Kounti	/kaːnwal kounti/
+kaaz	/kaːz/
 kaazn	/kaːzn̩/
 kach banit pepa	/katʃ banit pepa/
 kain	/kaɪn/
 kait	/kaɪt/
 kak	/kak/
+kala	/kala/
 kalalu	/kalalu/
 kalani	/kalani/
 kalanis	/kalanis/
@@ -754,6 +838,7 @@ kaman	/kaman/
 kaman yuusij	/kaman juːsidʒ/
 kamedi	/kamedi/
 kanchosnis	/kantʃosnis/
+kanchrak	/kantʃɹak/
 kanchuol	/kantʃuɔl/
 kanekshan	/kanekʃan/
 kanschrokshan	/kanstʃɹokʃan/
@@ -767,7 +852,6 @@ kasaava	/kasaːva/
 Kasta Riika	/kastaɹiːka/
 katn	/katn̩/
 katn chrii	/katn̩ tʃɹiː/
-kaul	/kaul/
 kazmopalitan	/kazmopalitan/
 kech	/ketʃ/
 kech di riek	/ketʃ di ɹɪɛk/
@@ -793,10 +877,13 @@ klaat	/klaːt/
 Klaax Tong	/klaːkstoŋ/
 Klarindan	/klaɹindan/
 klasikal	/klasikal/
+klie	/klɪɛ/
+klie pat	/klɪɛ pat/
 kliem	/klɪɛm/
 Klier	/klɪɛɹ/
 Kliermont	/klɪɛɹmont/
 Klifod	/klifod/
+kliin	/kliːn/
 kola	/kola/
 kolcha	/koltʃa/
 kom	/kom/
@@ -808,10 +895,12 @@ kompyuuta	/kompjuːta/
 kompyuuta manita	/kompjuːta manita/
 konchri	/kontʃɹi/
 kongk	/koŋk/
+koni	/koni/
 korant	/koɹant/
 kori guot	/koɹi guɔt/
 koril	/koɹil/
 korl	/koɹl/
+kos	/kos/
 koskos	/koskos/
 kostad apl	/kostad apl̩/
 kot	/kot/
@@ -839,6 +928,7 @@ ku	/ku/
 kudn	/kudn̩/
 kuk	/kuk/
 kukumba	/kukumba/
+kunu	/kunu/
 kuoknat	/kuɔknat/
 kuoknat chrii	/kuɔknat tʃɹiː/
 kuoknat milk	/kuɔknat mɪlk/
@@ -851,7 +941,8 @@ kuul	/kuːl/
 kwaadinet	/kwaːdinet/
 kwaat	/kwaːt/
 kwait	/kwaɪt/
-kwayat	/kwajat/
+kwaiyat	/kwaɪjat/
+kwestiyan	/kwestijan/
 kwiin	/kwiːn/
 kwik	/kwik/
 kwik-taim	/kwiktaɪm/
@@ -863,6 +954,7 @@ kyaarat	/kjaːɹat/
 kyabij	/kjabidʒ/
 kyahn	/kjã/
 Kyaklik	/kjaklik/
+kyamil	/kjamil/
 kyanal	/kjanal/
 kyanggl	/kjaŋgl̩/
 kyangkro	/kjaŋkɹo/
@@ -871,6 +963,7 @@ kyapcha	/kjaptʃa/
 kyapital	/kjapital/
 kyapitalis	/kjapitalis/
 kyaptin	/kjaptin/
+kyar	/kjaɹ/
 kyarakta	/kjaɹakta/
 Kyari	/kjaɹi/
 kyash	/kjaʃ/
@@ -880,6 +973,7 @@ kyata	/kjata/
 kyatalis	/kjatalis/
 kyatigari	/kjatigaɹi/
 Kyuuba	/kjuːba/
+laa	/laː/
 laaf	/laːf/
 laaj	/laːdʒ/
 laan	/laːn/
@@ -904,6 +998,8 @@ Larans	/laɹans/
 layad	/lajad/
 lebl	/lebl̩/
 lebm	/lebm̩/
+leda	/leda/
+lef	/lef/
 lego	/lego/
 lego biis	/lego biːs/
 lejislieta	/ledʒislɪɛta/
@@ -937,6 +1033,7 @@ lob	/lob/
 long	/loŋ/
 lorn	/loɹn/
 lou	/lɔu/
+luk	/luk/
 luo	/lʊo/
 luokal	/luɔkal/
 luokalaiz	/luɔkalaɪz/
@@ -945,13 +1042,14 @@ luokiet ina	/luɔkɪɛt ina/
 luokiet nier	/luɔkɪɛt nɪɛɹ/
 Luusi	/luːsi/
 Luwi	/luwi/
-Luwiiz	/luwiːz/
+Luwiiz	/luwi:z/
 Maach	/maːtʃ/
 maaga	/maːga/
 Maak	/maːk/
 maakit	/maːkit/
 Maakos	/maːkos/
 maanin	/maːnin/
+mada	/mada/
 mada-tong	/madatoŋ/
 madan	/madan/
 madifai	/madifaɪ/
@@ -961,6 +1059,8 @@ magij	/magɪdʒ/
 magl	/magl̩/
 maigrieshan	/maɪgɹɪɛʃan/
 Maikal	/maɪkal/
+main	/maɪn/
+mait	/maɪt/
 maitbi	/maɪtbi/
 majariti	/madʒaɹiti/
 man	/man/
@@ -983,12 +1083,14 @@ mashiin tuul	/maʃiːn tuːl/
 mashiinri	/maʃiːnɹi/
 matiirialis	/matiːɹialis/
 matimatix	/matimatiks/
+Matyu	/matju/
 medisn	/medisn̩/
 meditieshan	/meditɪɛʃan/
 meja	/medʒa/
 mejament	/medʒament/
 mek	/mek/
 mekop	/mekop/
+memba	/memba/
 Mexiko	/meksiko/
 mi	/mi/
 midiom	/midiom/
@@ -1011,7 +1113,7 @@ miit	/miːt/
 miita	/miːta/
 miizolek	/miːzolek/
 milichri	/militʃɹi/
-milyan	/miljan/
+miliyan	/milijan/
 mimuorial	/mimuɔɹial/
 minista	/minista/
 mishaneri	/miʃaneɹi/
@@ -1020,12 +1122,14 @@ mixcha	/mikstʃa/
 mixcho	/mikstʃo/
 Mobie	/mɔbɪɛ/
 mongx	/moŋks/
+moni	/moni/
 Morant Bie	/moɹantbɪɛ/
 mountn	/mɔuntn̩/
 mout	/mɔut/
 muo	/muɔ/
 muo dahn	/muɔdã/
 muobail	/muɔbaɪl/
+muor	/muɔɹ/
 muos	/muɔs/
 muosli	/muɔsli/
 muotaim	/muɔtaɪm/
@@ -1045,6 +1149,8 @@ naasti	/naːsti/
 naat	/naːt/
 Naat Afrika	/naːt afɹika/
 Naat Amerika	/naːt amɛɹɪka/
+naatiis	/naːtiːs/
+naatwes	/naːtwes/
 nadan	/nadan/
 Naijiiria	/naɪdʒiːɹja/
 nain	/naɪn/
@@ -1061,6 +1167,7 @@ navl	/navl̩/
 neba	/neba/
 Nedalanz	/nedalanz/
 nex	/neks/
+nex ier	/neks ɪɛɹ/
 niecha	/nɪɛtʃa/
 niel	/nɪɛl/
 niem	/nɪɛm/
@@ -1070,10 +1177,13 @@ nieshan stiet	/nɪɛʃan stɪɛt/
 nietib	/nɪɛtib/
 nietib langwij	/nɪɛtib laŋwidʒ/
 Nigril	/nigɹil/
+niigl	/niːgl̩/
 niyilis	/nijilis/
 no kja	/nokja/
 no kja umoch	/nokja umotʃ/
 no kwait	/no kwaɪt/
+no kya	/no kja/
+no kya ou	/no kyja ɔu/
 no riili	/no ɹiːli/
 nof	/nof/
 nof piipl	/nof piːpl̩/
@@ -1092,6 +1202,8 @@ nuotobl	/nuɔtobl̩/
 nuoz	/nuɔz/
 nyaamps	/ɲaːmps/
 nyam	/ɲam/
+nyam aaf	/ɲamaːf/
+nyami-nyami	/ɲamiɲami/
 nyuu	/ɲuː/
 Nyuu Yaak	/njuːjaːk/
 Nyuu Yaak Siti	/njuːjaːk siti/
@@ -1114,10 +1226,11 @@ op tu	/optu/
 opdiet	/opdɪɛt/
 opinyan	/opiɲan/
 opsaid dong	/opsaɪd doŋ/
-Orbort	/oɹboɹt/
+Orbort	/oɹbort/
 ort	/oɹt/
 ortkwiek	/oɹtkwɪɛk/
 ou	/ɔu/
+oun	/ɔun/
 ous	/ɔus/
 ousomeba	/ɔusomeba/
 Owad	/owad/
@@ -1126,6 +1239,7 @@ paadn	/paːdn̩/
 Paal	/paːl/
 paaliment	/paːliment/
 paarat	/paːɹat/
+paas	/paːs/
 paas dong	/paːsdoŋ/
 paas ischri	/paːs istʃɹi/
 paasl	/paːsl̩/
@@ -1138,6 +1252,7 @@ Pachrik	/patʃɹik/
 pahn	/pã/
 pain	/paɪn/
 paint	/paɪnt/
+paip	/paɪp/
 Pakistan	/pakistan/
 pakit	/pakit/
 paliis	/paliːs/
@@ -1147,10 +1262,12 @@ palitishan	/palitiʃan/
 palitix	/palitiks/
 Panish	/panish/
 Panish Tong	/paniʃtoŋ/
+papila	/papila/
 papilieshan	/papilɪɛʃan/
 papishuo	/papiʃuɔ/
 papyulieshan	/papjulɪɛʃan/
 pashan fruut	/paʃan fɹuːt/
+pat	/pat/
 pati	/pati/
 patwa	/patwa/
 pel	/pel/
@@ -1183,6 +1300,7 @@ pikni	/pikni/
 pilikin	/pilikin/
 pimenta	/pimenta/
 pio	/pio/
+pit	/pit/
 pitieta	/pitɪɛta/
 pitni	/pitni/
 plaan	/plaːn/
@@ -1193,6 +1311,7 @@ plie	/plɪɛ/
 plies	/plɪɛs/
 pliet	/plɪɛt/
 plit	/plit/
+plom	/plom/
 poblik	/poblik/
 poblikieshan	/poblikɪɛʃan/
 poblish	/pobliʃ/
@@ -1202,6 +1321,8 @@ poliis	/poliːs/
 poliisman	/poliːsman/
 politikal paati	/politikal paːti/
 pongkin	/poŋkin/
+ponish	/poniʃ/
+ponishment	/poniʃment/
 por-kiapita	/poɹ kjapita/
 porl	/poɹl/
 pormanent	/poɹmanent/
@@ -1219,6 +1340,7 @@ praim minista	/pɹaɪm minista/
 prais	/pɹaɪs/
 praivisi	/pɹaɪvisi/
 prajek	/pɹadʒek/
+pramis	/pɹamis/
 pravins	/pɹavins/
 pred	/pɹed/
 preke	/pɹeke/
@@ -1236,6 +1358,7 @@ prumuot	/pɹumuɔt/
 pruogram	/pɹuɔgɹam/
 pruoses	/pɹuɔses/
 pudn	/pudn̩/
+pumuot	/pumuɔt/
 puo	/puɔ/
 puohim	/puɔhim/
 puok	/puɔk/
@@ -1263,6 +1386,7 @@ raitn	/ɹaɪtn̩/
 Raki Paint	/ɹakipaɪnt/
 raktuon	/ɹaktuɔn/
 rang	/ɹaŋ/
+rang-said	/ɹaŋsaɪd/
 Raya Byuuno	/ɹajabjuːno/
 reda	/ɹeda/
 redi	/ɹedɪ/
@@ -1342,6 +1466,7 @@ saaf	/saːf/
 saalfish	/saːlfiʃ/
 saaya saas	/saːja saːs/
 sai	/saɪ/
+Saiman	/saɪman/
 sait	/saɪt/
 saiyans	/saɪjans/
 sakrifais	/sakɹifaɪs/
@@ -1392,6 +1517,7 @@ sfier	/sfɪɛɹ/
 shaachij	/ʃaːtʃɪdʒ/
 shaat	/ʃaːt/
 shap	/ʃap/
+shap-maasa	/ʃapmaːsa/
 sheda	/ʃeda/
 shiem	/ʃɪɛm/
 shier	/ʃɪɛɹ/
@@ -1402,16 +1528,19 @@ shudn	/ʃudn̩/
 shuga	/ʃuga/
 shuga kien	/ʃuga kɪɛn/
 shuo	/ʃuɔ/
+shuor	/ʃuɔɹ/
 shuut	/ʃuːt/
 si	/si/
 sib	/sib/
 sidong	/sidoŋ/
-siek a	/sɪɛka/
+sief	/sɪɛf/
 sieka	/sɪɛka/
+siel	/sɪɛl/
 siem	/sɪɛm/
 siem wie	/sɪɛm wɪɛ/
 siem wie laka ef	/sɪɛm wɪɛ laka ef/
-Siera	/sɪɛɹa/
+Siera	/sɪɛra/
+siev	/sɪɛv/
 sii	/siː/
 sii kyaptin	/siː kjaptin/
 siikuel	/siːkwel/
@@ -1443,6 +1572,7 @@ Sint Anz Bie	/sintanzbɪɛ/
 Sint Ilizibet	/sintilizibet/
 sinting	/sintiŋ/
 sipl	/sipl̩/
+sista	/sista/
 sistim	/sistim/
 siti	/siti/
 sitieshan	/sitɪɛʃan/
@@ -1459,10 +1589,13 @@ skwier	/skwɪɛɹ/
 skwier kilomita	/skwɪɛɹ kilomita/
 slait	/slaɪt/
 slieb	/slɪɛb/
+sliip	/sliːp/
 sluo	/slʊo/
+smaal	/smaːl/
 smadi	/smadi/
 smadi els	/smadi els/
 smadi uu	/smadi uː/
+smuok	/smuɔk/
 so langx az	/solaŋksaz/
 sobjek	/sobdʒek/
 sodan	/sodan/
@@ -1471,7 +1604,9 @@ sofarieshan	/sofaɹɪɛʃan/
 sohn	/sõ/
 sojes	/sodʒes/
 som	/som/
+soma	/soma/
 somwe	/somwe/
+sopm	/sopm̩/
 sopraizn	/sopɹaɪzn̩/
 sopres	/sopɹes/
 Sori Kounti	/soɹi kounti/
@@ -1481,23 +1616,31 @@ sorosi	/soɹosi/
 soroun	/soɹɔun/
 soroun bai	/soɹɔun baɪ/
 sostien	/sostɪɛn/
+soua	/sɔua/
 soun	/sɔun/
 sout	/sɔut/
 Sout Afrika	/sout afɹika/
 Sout Koria	/sout koɹia/
+soutiis	/sɔutiːs/
 Soutiis Ieja	/soutiːsɪɛdʒa/
+soutwes	/sɔutwes/
 spais	/spaɪs/
 spekchrom	/spektʃɹom/
 Spien	/spɪɛn/
 spies	/spɪɛs/
 spiishiz	/spiːʃiz/
+spring	/spɹiŋ/
+spring rien	/spɹiŋ ɹɪɛn/
+spring waata	/spɹiŋ waːta/
 spuoxman	/spuɔksman/
 staach	/staːtʃ/
+staam	/staːm/
 staar	/staːɹ/
 staar apl	/staːɹ apl̩/
 staarfruut	/staːɹ fɹuːt/
 staat	/staːt/
 stail	/staɪl/
+stie	/stɪɛ/
 stiebl	/stɪɛbl̩/
 stiej	/stɪɛdʒ/
 stieshan	/stɪɛʃan/
@@ -1513,6 +1656,7 @@ suimz	/suimz/
 Suitsalan	/suitsalan/
 sumaal	/sumaːl/
 sumuud	/sumuːd/
+suoja	/suɔdʒa/
 suop	/suɔp/
 suos	/suɔs/
 suoshal	/suɔʃal/
@@ -1520,11 +1664,13 @@ suoshal woka	/suɔʃal woka/
 Suoviet Yuunian	/suovɪɛt juːnjan/
 susu	/susu/
 suucha	/suːtʃa/
+suun	/suːn/
 suup	/suːp/
 Swiidn	/swiːdn̩/
 swiit	/swiːt/
 swiit pepa	/swiːt pepa/
 swiit pitieta	/swiːt pitɪɛta/
+swiit-swiit	/swiːtswiːt/
 swimin	/swimin/
 taak	/taːk/
 taakin	/taːkin/
@@ -1534,18 +1680,22 @@ taikl	/taɪkl̩/
 Tailan	/taɪlan/
 taim	/taɪm/
 talawa	/talawa/
+Tamas	/tamas/
 tambrik	/tambɹik/
 tambrin	/tambɹin/
 tan	/tan/
+tan op	/tanop/
 tandad	/tandad/
 tangx	/taŋks/
 tap	/tap/
 tapik	/tapik/
+taya	/taja/
 tayad	/tajad/
 tek	/tek/
-tek iin	/tekiːn/
+tek iin	/tek iːn/
+tek kier a	/tek kɪɛɹ/
 tek plies	/tek plɪɛs/
-tek uoba	/tekuɔba/
+tek uoba	/tek uɔba/
 tekniik	/tekniːk/
 tel	/tel/
 tel nou	/tel nɔu/
@@ -1559,18 +1709,24 @@ textail	/tekstaɪl/
 tide	/tide/
 tiebl	/tɪɛbl̩/
 tiel	/tɪɛl/
+ties	/tɪɛs/
 tieta	/tɪɛta/
 tigeda	/tigeda/
 tii	/tiː/
 tiich	/tiːtʃ/
 tiif	/tiːf/
 tiit	/tiːt/
+tik	/tik/
 tingk	/tiŋk/
 tingz	/tiŋz/
 tiori	/tioɹi/
+tisyu	/tisju/
 tix	/tɪks/
+toch	/totʃ/
 tod	/tod/
 todi	/todi/
+tof	/tof/
+ton	/ton/
 tong	/tɔŋ/
 Torki	/Toɹki/
 torkl	/toɹkl̩/
@@ -1595,6 +1751,7 @@ tuu	/tuː/
 tuul	/tuːl/
 twelb	/twelb/
 twenti	/twenti/
+ud	/ud/
 uman	/uman/
 umoch	/umotʃ/
 unu	/unu/
@@ -1634,11 +1791,13 @@ wa	/wa/
 wa dehn kaal	/wa dehn kaːl/
 waak	/waːk/
 waal	/waːl/
+waam	/waːm/
 waapm	/waːpm̩/
 waar	/waːɹ/
 waata	/waːta/
 wahn	/wã/
 waidpred	/waɪdpɹed/
+waif	/waɪf/
 wail	/waɪl/
 wails	/waɪls/
 wait	/waɪt/
@@ -1647,7 +1806,11 @@ wan	/wan/
 wan nex	/wan neks/
 wan wie	/wan wɪɛ/
 wapn-bapn	/wapn̩bapn̩/
+was	/was/
+wat-lef	/watlef/
+wat-liiv	/watliːv/
 we miin se	/wemiːnse/
+weda	/weda/
 wehn	/wẽ/
 wes	/wes/
 Wes Afrika	/wes afɹika/
@@ -1659,13 +1822,18 @@ widout	/widɔut/
 widoutn	/widɔutn̩/
 wie	/wɪɛ/
 wiej	/wɪɛdʒ/
+wiet	/wɪɛt/
+wiik	/wiːk/
 wiil	/wiːl/
+winta	/winta/
 wod	/wod/
 wod-a-mout	/wodamɔut/
 wok	/wok/
 wok fuos	/wok fuɔs/
 woka	/woka/
+woklis	/woklis/
 wol	/wol/
+wori	/woɹi/
 worom	/woɹom/
 wot	/wot/
 wotlis	/wotlis/
@@ -1673,6 +1841,7 @@ wud	/wud/
 wuol	/wuɔl/
 ya	/ja/
 yaad	/jaːd/
+yaadi	/jaːdi/
 yai	/jaɪ/
 yam	/jam/
 yampi	/jampi/
