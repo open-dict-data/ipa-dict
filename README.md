@@ -98,6 +98,9 @@ Odia | or
 Persian | fa
 Swedish | sv
 Swahili | sw
+Vietnamese (Central) | vi_C
+Vietnamese (Northern) | vi_N
+Vietnamese (Southern) | vi_S
 Cantonese | yue
 Mandarin | zh
 
