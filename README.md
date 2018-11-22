@@ -120,12 +120,13 @@ The [IPA Lookup](https://open-dict-data.github.io/ipa-lookup/) project provides 
 
 Links to all the available languages can be found on the [project homepage](https://open-dict-data.github.io/ipa-lookup/).
 
-Apart from the above, there are several other ways that this data could (and has been applied):
+Apart from the above, there are several other ways that this data could be (and has been) applied:
 
-* Providing pronunciation information for a series of learner's grammars currently being compiled by the Open Grammar Project
+* Providing pronunciation information for a series of learner's grammars currently being compiled by the [Open Grammar Project](https://github.com/opengrammar/)
 * Cross-language comparison of common phonemes
 * Intra-language analysis of phoneme patterns
 * Automatic generation of homonym lists (a selection of these is now available for download in the [releases section](https://github.com/open-dict-data/ipa-dict/releases/tag/1.0))
+* Generating complete IPA transcriptions for stories in multiple languages as part of the [Storybooks Speech and Hearing](https://global-asp.github.io/storybooks-sah/) project
 
 ## Demo
 
