@@ -10341,7 +10341,7 @@ X光	/ɪk˥ si:˨˩ kwɔ:ŋ˥/
 反思	/fa:n˧˥ si:˥/
 反感	/fa:n˧˥ kɐm˧˥/
 反應	/fa:n˧˥ jɪŋ˧/
-反應過渡	/fa:n˧˥ jɪŋ˧ kwɔ:˧ tou˨/
+反應過度	/fa:n˧˥ jɪŋ˧ kwɔ:˧ tou˨/
 反戰	/fa:n˧˥ tsi:n˧/
 反戰份子	/fa:n˧˥ tsi:n˧ fɐn˨ tsi:˧˥/
 反戰分子	/fa:n˧˥ tsi:n˧ fɐn˨ tsi:˧˥/
@@ -10386,7 +10386,6 @@ X光	/ɪk˥ si:˨˩ kwɔ:ŋ˥/
 取向	/tsʰɵy˧˥ hœ:ŋ˧/
 取得	/tsʰɵy˧˥ tɐk˥/
 取悅	/tsʰɵy˧˥ jy:t˨/
-取悦	/tsʰɵy˧˥ jy:t˨/
 取捨	/tsʰɵy˧˥ sɛ:˧˥/
 取消	/tsʰɵy˧˥ si:u˥/
 取笑	/tsʰɵy˧˥ si:u˧/
@@ -23266,7 +23265,6 @@ X光	/ɪk˥ si:˨˩ kwɔ:ŋ˥/
 指南	/tsi:˧˥ na:m˨˩/, /tsi:˧˥ la:m˨˩/
 指南針	/tsi:˧˥ na:m˨˩ tsɐm˥/, /tsi:˧˥ la:m˨˩ tsɐm˥/
 指印	/tsi:˧˥ jɐn˧/
-指大齡單身女性	/tsʊŋ˥ nɵy˩˧/, /tsʊŋ˥ lɵy˩˧/
 指定	/tsi:˧˥ tɪŋ˨/
 指導	/tsi:˧˥ tou˨/
 指尖	/tsi:˧˥ tsi:m˥/
@@ -23281,7 +23279,6 @@ X光	/ɪk˥ si:˨˩ kwɔ:ŋ˥/
 指甲	/tsi:˧˥ ka:p˧/
 指甲鉗	/tsi:˧˥ ka:p˧ kʰi:m˧˥/
 指紋	/tsi:˧˥ mɐn˨˩/
-指赴宴、去喜宴等的禮服	/jɐm˧˥ sa:m˥/
 指關節	/tsi:˧˥ kwa:n˥ tsi:t˧/
 指鹿為馬	/tsi:˧˥ lʊk˨ wɐi˨˩ ma:˩˧/
 指點	/tsi:˧˥ ti:m˧˥/
