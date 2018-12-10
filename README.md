@@ -80,29 +80,29 @@ IPA data is currently available for the following languages:
 
 Language | Code
 -------- | ----
-Arabic (Modern Standard) | ar
-German | de
-English (General American) | en_US
-English (Received Pronunciation) | en_UK
-Esperanto | eo
-Spanish (Spain) | es_ES
-Spanish (Mexico) | es_MX
-Finnish | fi
-French (France) | fr_FR
-French (Québec) | fr_QC
-Japanese | ja
-Jamaican Creole | jam
-Malay (Malaysian and Indonesian) | ma
-Norwegian Bokmål | nb
-Odia | or
-Persian | fa
-Swedish | sv
-Swahili | sw
-Vietnamese (Central) | vi_C
-Vietnamese (Northern) | vi_N
-Vietnamese (Southern) | vi_S
-Cantonese | yue
-Mandarin | zh
+ar | Arabic (Modern Standard)
+de | German
+en_UK | English (Received Pronunciation)
+en_US | English (General American)
+eo | Esperanto
+es_ES | Spanish (Spain)
+es_MX | Spanish (Mexico)
+fa | Persian
+fi | Finnish
+fr_FR | French (France)
+fr_QC | French (Québec)
+ja | Japanese
+jam | Jamaican Creole
+ma | Malay (Malaysian and Indonesian)
+nb | Norwegian Bokmål
+or | Odia
+sv | Swedish
+sw | Swahili
+vi_C | Vietnamese (Central)
+vi_N | Vietnamese (Northern)
+vi_S | Vietnamese (Southern)
+yue | Cantonese
+zh | Mandarin
 
 ## Applications
 
