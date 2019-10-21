@@ -25,7 +25,7 @@ For convenience, the IPA data is provided here in several different formats:
 * CSV
 * XML
 
-All filenames refer to the [ISO language code](http://en.wikipedia.org/wiki/ISO_639-1) of the relevant language (e.g. `sw.json` is a JSON file containing pronunciations for Swahili.
+All filenames refer to the [ISO language code](https://en.wikipedia.org/wiki/ISO_639-1) of the relevant language (e.g. `sw.json` is a JSON file containing pronunciations for Swahili.
 
 ### Raw data
 
@@ -146,9 +146,9 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 ## Credits
 
 * [Aspell](http://aspell.net/) for reference wordlists
-* [Folkets lexikon](http://folkets-lexikon.csc.kth.se/folkets/) for Swedish pronunciation data. ([CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/))
+* [Folkets lexikon](https://folkets-lexikon.csc.kth.se/folkets/) for Swedish pronunciation data. ([CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/))
 * [Edict](https://www.edrdg.org/jmdict/edict.html) for Japanese pronunciation data ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
-* [_A Learner's Grammar of Jamaican_](https://github.com/opengrammar/jam-learners-grammar) from the [Open Grammar Project](https://github.com/opengrammar) for Jamaican Creole pronunciation data ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
+* [_A Learner's Grammar of Jamaican_](https://github.com/opengrammar/jam-learners-grammar) from the [Open Grammar Project](https://github.com/opengrammar) for Jamaican Creole pronunciation data ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 * [Unihan](https://www.unicode.org/charts/unihan.html) for Chinese character pronunciation data ([Unicode License](https://www.unicode.org/license.html))
 * [KFCD Pinyin](https://github.com/kfcd/pinyin) for Mandarin IPA data ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
 * [KFCD Pingyam](https://github.com/kfcd/pingyam) for Cantonese IPA data ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/))
