@@ -100,6 +100,7 @@ nb | Norwegian Bokmål
 or | Odia
 sv | Swedish
 sw | Swahili
+tts | Isan
 vi_C | Vietnamese (Central)
 vi_N | Vietnamese (Northern)
 vi_S | Vietnamese (Southern)
@@ -168,6 +169,7 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 * Many thanks to Dr. Espen Stranger-Johannessen of the Inland Norway University of Applied Sciences for assistance with correcting and updating the Norwegian IPA data.
 * Icelandic IPA is from the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framburdur&lang=en) by the [Hjal project](http://www.malfong.is/index.php?pg=hjal&lang=en), released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), with [some changes](https://github.com/egilll/icelandic-pronunciation-dataset).
 * Khmer data extracted from the [Khmer-English Dictionary](https://www.aakanee.com/AC-Khmer/X/dict.html) at [aakanee.com](https://www.aakanee.com) ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
+* Isan data extracted from the [Isaan-English Dictionary](https://www.aakanee.com/AC-Isaan/X/dict.html) at [aakanee.com](https://www.aakanee.com) ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ## License
 
