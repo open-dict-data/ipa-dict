@@ -4,6 +4,20 @@ This project aims to provide a series of dictionaries consisting of wordlists wi
 
 The dictionary data is available in a number of human- and machine-readable [formats](#formats), in order to make it as useful as possible for various other [applications](#applications).
 
+* [Background](#background)
+* [Formats](#formats)
+  * [Raw data](#raw-data)
+  * [JSON](#json)
+  * [XML](#xml)
+  * [CSV](#csv)
+  * [Other formats](#other-formats)
+* [Languages](#languages)
+* [Applications](#applications)
+* [Demo](#demo)
+* [Notes](#notes)
+* [Credits](#credits)
+* [License](#license)
+
 ## Background
 
 There is no existing central, standardized location for checking the correspondence between orthography and pronunciation in any given language.
