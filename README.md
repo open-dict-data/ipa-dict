@@ -112,6 +112,7 @@ km | Khmer
 ko | Korean
 ma | Malay (Malaysian and Indonesian)
 nb | Norwegian Bokmål
+nl | Dutch
 or | Odia
 ro | Romanian
 sv | Swedish
@@ -188,6 +189,7 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 * Isan data extracted from the [Isaan-English Dictionary](https://www.aakanee.com/AC-Isaan/X/dict.html) at [aakanee.com](https://www.aakanee.com) ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 * Romanian data provided by [MaRePhoR](https://speech.utcluj.ro/marephor/) ([CC BY-NC](https://creativecommons.org/licenses/by-nc/3.0/))
 * Korean data provided by [korean-word-ipa-dictionary](https://github.com/laviande22/korean-word-ipa-dictionary), extracted from Korean Wiktionary by @laviande22 ([CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/))
+* Dutch IPA data has been provided by [Instituut voor de Nederlandse Taal](https://www.ivdnt.org/) (INT) under a CC BY license. Please note that this data an automated conversion from different data sources and that no manual correction or revision has been done on the entire set, however [corrections and suggestions are welcome](https://github.com/open-dict-data/ipa-dict/issues/30).
 
 ## License
 
