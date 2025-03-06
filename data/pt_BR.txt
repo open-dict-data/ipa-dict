@@ -7958,7 +7958,6 @@ araguaiana	/a.ɾa.gway.ˈã.nə/
 araguaia	/a.ɾa.ˈgway.ə/
 araguaína	/a.ɾa.gwa.ˈi.nə/
 araguainha	/a.ɾa.gwa.ˈĩ.ɲə/
-#name?	/.ˈax/
 araica	/a.ˈɾay.kə/
 araiza	/a.ˈɾay.zə/
 aralar	/a.ɾa.ˈlax/
@@ -9085,7 +9084,6 @@ asanas	/a.ˈzã.nəs/
 asa	/ˈa.zə/
 asanga	/a.ˈzã.gə/
 as	/ˈas/
-#name?	/ˈ.as/
 asas	/ˈa.zəs/
 asbestos	/az.ˈbɛs.tʊs/
 ascalão	/as.ka.ˈlãʊ̃/
@@ -33859,7 +33857,6 @@ eliminação	/e.li.mi.na.ˈsãʊ̃/
 eliminações	/e.li.mi.na.ˈsõỹs/
 eliminada	/e.li.mi.ˈna.də/
 eliminadas	/e.li.mi.ˈna.dəs/
-#name?	/.e.li.mi.ˈna.dʊ/
 eliminado	/e.li.mi.ˈna.dʊ/
 eliminador	/e.li.mi.na.ˈdox/
 eliminados	/e.li.mi.ˈna.dʊs/
@@ -59935,7 +59932,6 @@ masculinos	/mas.ku.ˈlĩ.nʊs/
 másculo	/ˈmas.ku.lʊ/
 masdar	/maz.ˈdax/
 masdeísmo	/maz.de.ˈiz.mʊ/
-#name?	/ˈ.mas/
 masmorra	/maz.ˈmo.xə/
 masmorras	/maz.ˈmo.xəs/
 masmuda	/maz.ˈmu.də/
@@ -62006,7 +62002,6 @@ mispá	/mis.ˈpa/
 misquitos	/mis.ˈki.tʊs/
 misra	/ˈmis.xə/
 missangas	/mi.ˈsã.gəs/
-#name?	/.mi.ˈsãʊ̃/
 missão	/mi.ˈsãʊ̃/
 missas	/ˈmi.səs/
 mísseis	/ˈmi.seys/
@@ -64268,7 +64263,6 @@ não-muçulmanos	/ˈnãʊ̃.mu.suw.ma.nʊs/
 não-nativas	/ˈnãʊ̃.na.tʃi.vəs/
 não-nativos	/ˈnãʊ̃.na.tʃi.vʊs/
 nâo	/ˈnã.ʊ/
-#name?	/.ˈnãʊ̃/
 não-negativas	/ˈnãʊ̃.ne.ga.tʃi.vəs/
 não-negativos	/ˈnãʊ̃.ne.ga.tʃi.vʊs/
 não	/ˈnãʊ̃/
@@ -66027,7 +66021,6 @@ obre	/ˈɔ.bɾɪ/
 obrera	/o.ˈbɾe.ɾə/
 obrero	/o.ˈbɾe.ɾʊ/
 obrigação	/o.bɾi.ga.ˈsãʊ̃/
-#name?	/.o.bɾi.ga.ˈsãʊ̃/
 obrigacional	/o.bɾi.ga.si.o.ˈnaw/
 obrigações	/o.bɾi.ga.ˈsõỹs/
 obrigada	/o.bɾi.ˈga.də/
@@ -67867,7 +67860,6 @@ ostrogodos	/os.tɾo.ˈgõ.dʊs/
 ostrogótico	/os.tɾo.ˈgɔ.tʃi.kʊ/
 osuna	/o.ˈzũ.nə/
 osu	/o.ˈzu/
-#name?	/ˈ.ʊs/
 osvaldão	/oz.vaw.ˈdãʊ̃/
 osvaldinho	/oz.vaw.ˈdʒĩ.ɲʊ/
 osvaldo	/oz.ˈvaw.dʊ/
@@ -83367,7 +83359,6 @@ são-nos	/ˈsãʊ̃.nʊs/
 são	/ˈsãʊ̃/
 são-paulinos	/ˈsãʊ̃.paw.li.nʊs/
 sâo	/ˈsã.ʊ/
-#name?	/.ˈsãʊ̃/
 sãos	/ˈsãʊ̃s/
 saotome	/sa.o.ˈtõ.mɪ/
 saouma	/sa.ˈow.mə/
