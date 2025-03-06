@@ -19573,7 +19573,7 @@ chia	/ˈtʃiə/
 chianese	/kiɑˈneɪzi/
 chiang	/ˈtʃæŋ/
 chiang's	/ˈtʃæŋz/
-chianti	/tʃiˈænti/
+chianti	/kiˈænti/
 chiaoscurist	/ˈkiɑˌɔˌskuɹɪst/
 chiaoscuro	/ˈkiɑˌɔˌskuɹoʊ/
 chiapas	/tʃiˈɑpəs/
@@ -19595,10 +19595,10 @@ chiat	/ˈtʃiæt/
 chiavetta	/kiɑˈvɛtə/
 chiba	/ˈtʃibə/
 chic	/ˈʃik/
-chicago	/ʃəˈkɑˌɡoʊ/
-chicago's	/ʃəˈkɑˌɡoʊz/
-chicagoan	/ˈtʃɪkəˌɡoʊn/
-chicagoans	/ʃəˈkɑˌɡoʊənz/
+chicago	/ʃɪˈkɑˌɡoʊ/, /ʃəˈkɑˌɡoʊ/
+chicago's	/ʃɪˈkɑˌɡoʊz/, /ʃəˈkɑˌɡoʊz/
+chicagoan	/ˈʃɪkəˌɡoʊn/
+chicagoans	/ʃɪˈkɑˌɡoʊənz/, /ʃəˈkɑˌɡoʊənz/
 chicanery	/ʃɪˈkeɪnɝi/
 chicano	/tʃɪˈkɑnoʊ/
 chicanos	/tʃɪˈkɑnoʊz/
@@ -81474,8 +81474,8 @@ orchestrates	/ˈɔɹkəˌstɹeɪts/
 orchestrating	/ˈɔɹkɪˌstɹeɪtɪŋ/
 orchestration	/ˌɔɹkəˈstɹeɪʃən/
 orchestrations	/ˌɔɹkəˈstɹeɪʃənz/
-orchid	/ˈɔɹkəd/
-orchids	/ˈɔɹkədz/
+orchid	/ˈɔɹkɪd/
+orchids	/ˈɔɹkɪdz/
 orct	/ˈɔɹkt/
 orcutt	/ˈɔɹkət/
 ord	/ˈɔɹd/
