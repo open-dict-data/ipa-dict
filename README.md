@@ -122,7 +122,8 @@ vi_C | Vietnamese (Central)
 vi_N | Vietnamese (Northern)
 vi_S | Vietnamese (Southern)
 yue | Cantonese
-zh | Mandarin
+zh_hans | Mandarin (Simplified)
+zh_hant | Mandarin (Traditional)
 
 ## Applications
 
