@@ -114,6 +114,7 @@ ma | Malay (Malaysian and Indonesian)
 nb | Norwegian Bokmål
 nl | Dutch
 or | Odia
+pt_BR | Portuguese (Brazilian)
 ro | Romanian
 sv | Swedish
 sw | Swahili
@@ -122,7 +123,8 @@ vi_C | Vietnamese (Central)
 vi_N | Vietnamese (Northern)
 vi_S | Vietnamese (Southern)
 yue | Cantonese
-zh | Mandarin
+zh_Hans | Mandarin (Simplified)
+zh_Hant | Mandarin (Traditional)
 
 ## Applications
 
