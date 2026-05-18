@@ -166,6 +166,7 @@ You can search the data online on the [IPA Lookup](https://open-dict-data.github
 
 * [Aspell](http://aspell.net/) for reference wordlists
 * [Folkets lexikon](https://folkets-lexikon.csc.kth.se/folkets/) for Swedish pronunciation data. ([CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/))
+* [NST Pronunciation Lexicon for Swedish](https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-22/) (Nordic Language Technology AS / Språkbanken) for expanded Swedish pronunciation data. ([CC0](https://creativecommons.org/publicdomain/zero/1.0/))
 * [Edict](https://www.edrdg.org/jmdict/edict.html) for Japanese pronunciation data ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))
 * [_A Learner's Grammar of Jamaican_](https://github.com/opengrammar/jam-learners-grammar) from the [Open Grammar Project](https://github.com/opengrammar) for Jamaican Creole pronunciation data ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
 * [Unihan](https://www.unicode.org/charts/unihan.html) for Chinese character pronunciation data ([Unicode License](https://www.unicode.org/license.html))
